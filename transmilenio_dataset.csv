@@ -1,0 +1,1501 @@
+origen,destino,misma_troncal,num_transbordos,distancia_km,hora_dia,dia_semana,tipo_hora,fase_troncal,tiempo_viaje_minutos
+Portal Usme,Portal Tunal,0,1,21.8,13,6,pico,FASE III,80.7
+Museo del Oro,Terminal (Autopista Norte),0,2,21.8,6,0,valle,FASE I,82.9
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,22,1,pico,FASE I,67.7
+Portal Usme,Portal Tunal,0,1,21.8,13,4,pico,FASE I,78.8
+Portal Tunal,Portal Usme,0,1,21.8,10,5,pico,FASE III,77.4
+Portal Américas,Portal Tunal,0,2,21.8,15,6,valle,FASE II,74.5
+AV. Jiménez,Portal Américas,0,2,21.8,10,6,pico,FASE I,80.9
+AV. Jiménez,Portal Suba,0,0,21.8,10,5,valle,FASE III,61.5
+Portal Usme,Portal Américas,0,1,21.8,17,5,pico,FASE I,79.3
+Portal Suba,Museo del Oro,1,0,21.8,15,6,valle,FASE I,63.5
+Portal Tunal,Portal Usme,1,1,21.8,18,2,valle,FASE I,62.5
+Portal Usme,Portal Usme,1,0,21.8,6,4,valle,FASE I,60.9
+Portal Tunal,AV. Jiménez,1,0,21.8,12,2,valle,FASE I,60.7
+Portal Tunal,Héroes,0,0,21.8,7,1,valle,FASE II,70.1
+Portal Américas,Museo del Oro,0,1,21.8,7,0,pico,FASE I,81.8
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,5,5,valle,FASE II,66.9
+Museo del Oro,Portal Usme,0,1,21.8,22,4,pico,FASE I,82.1
+Portal Américas,Portal Tunal,1,1,21.8,21,5,valle,FASE I,64.3
+Portal Américas,Museo del Oro,0,0,21.8,17,2,valle,FASE I,63.3
+Portal Tunal,AV. Jiménez,1,2,21.8,7,3,pico,FASE III,85.4
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,0,21.8,5,1,pico,FASE I,66.9
+AV. Jiménez,Héroes,1,1,21.8,8,0,valle,FASE II,65.0
+Portal Suba,Héroes,0,1,21.8,17,1,valle,FASE I,68.0
+Portal Américas,AV. Jiménez,0,0,21.8,21,3,valle,FASE I,65.7
+Museo del Oro,AV. Jiménez,0,0,21.8,15,0,valle,FASE I,63.8
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,6,3,valle,FASE I,66.9
+Terminal (Autopista Norte),Portal Usme,0,2,21.8,20,1,valle,FASE I,78.7
+Portal Suba,Héroes,0,1,21.8,6,2,pico,FASE I,75.4
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,20,6,pico,FASE II,70.5
+Museo del Oro,Museo del Oro,0,1,21.8,13,1,valle,FASE I,72.0
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,5,1,valle,FASE II,62.7
+Héroes,Portal Suba,0,1,21.8,14,1,valle,FASE I,70.4
+Museo del Oro,Portal Suba,1,2,21.8,5,4,pico,FASE II,84.9
+Portal Suba,AV. Jiménez,0,0,21.8,6,3,pico,FASE II,75.3
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,20,3,pico,FASE I,78.4
+AV. Jiménez,Portal Suba,0,0,21.8,16,5,pico,FASE I,72.1
+Museo del Oro,Héroes,0,1,21.8,12,3,pico,FASE II,78.1
+Héroes,Terminal (Autopista Norte),1,3,21.8,22,5,valle,FASE III,82.3
+Héroes,Terminal (Autopista Norte),0,0,21.8,6,4,pico,FASE I,71.4
+Portal Tunal,AV. Jiménez,0,1,21.8,17,2,valle,FASE I,70.5
+Portal Tunal,Portal Usme,1,0,21.8,10,5,pico,FASE III,67.4
+Portal Usme,Portal Usme,0,3,21.8,10,1,valle,FASE I,91.0
+Portal Suba,Museo del Oro,0,0,21.8,13,2,pico,FASE II,75.2
+Portal Américas,AV. Jiménez,0,1,21.8,20,6,pico,FASE I,82.5
+Museo del Oro,Portal Américas,1,1,21.8,15,4,pico,FASE I,79.9
+Museo del Oro,Museo del Oro,0,1,21.8,11,3,valle,FASE II,74.7
+Portal Américas,Portal Américas,1,1,21.8,14,5,valle,FASE II,63.6
+Portal Usme,Portal Usme,0,0,21.8,14,1,valle,FASE I,67.7
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,22,0,pico,FASE I,76.1
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,13,6,valle,FASE II,67.0
+Portal Usme,AV. Jiménez,1,0,21.8,19,0,pico,FASE II,67.5
+Terminal (Autopista Norte),AV. Jiménez,0,1,21.8,8,2,pico,FASE I,81.7
+Portal Tunal,Portal Usme,1,0,21.8,12,3,valle,FASE II,60.0
+Museo del Oro,Museo del Oro,1,0,21.8,13,0,valle,FASE II,57.1
+Portal Usme,Museo del Oro,0,1,21.8,17,2,pico,FASE II,77.9
+Museo del Oro,AV. Jiménez,0,3,21.8,13,4,pico,FASE II,96.2
+Portal Américas,Portal Suba,0,1,21.8,8,2,valle,FASE I,69.3
+Héroes,Portal Tunal,0,0,21.8,21,6,pico,FASE II,70.6
+Portal Tunal,Portal Usme,1,0,21.8,20,2,pico,FASE II,70.3
+AV. Jiménez,Portal Tunal,1,3,21.8,19,6,valle,FASE I,81.4
+Portal Tunal,Portal Tunal,0,0,21.8,7,2,valle,FASE I,66.8
+Portal Usme,Museo del Oro,0,0,21.8,9,1,valle,FASE I,61.4
+AV. Jiménez,Museo del Oro,1,1,21.8,9,2,valle,FASE II,68.7
+Héroes,Portal Suba,0,1,21.8,19,5,valle,FASE I,70.1
+Portal Usme,Portal Tunal,1,1,21.8,22,2,pico,FASE II,72.0
+Portal Suba,Portal Tunal,0,0,21.8,19,1,valle,FASE III,63.5
+Museo del Oro,AV. Jiménez,1,0,21.8,6,1,pico,FASE II,72.1
+Héroes,Museo del Oro,0,3,21.8,17,4,pico,FASE III,92.9
+Museo del Oro,Portal Tunal,0,0,21.8,8,6,valle,FASE III,71.6
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,14,3,pico,FASE I,73.9
+Portal Suba,Portal Suba,0,1,21.8,17,0,pico,FASE II,75.4
+Portal Suba,Portal Américas,0,1,21.8,14,0,pico,FASE I,84.0
+Héroes,Terminal (Autopista Norte),1,0,21.8,13,2,pico,FASE III,72.8
+Portal Suba,Terminal (Autopista Norte),1,0,21.8,12,4,valle,FASE I,57.4
+AV. Jiménez,Portal Américas,0,1,21.8,7,2,valle,FASE III,72.2
+Portal Suba,Portal Usme,0,2,21.8,20,0,valle,FASE II,81.2
+Museo del Oro,Portal Usme,0,2,21.8,18,6,pico,FASE II,86.4
+Museo del Oro,Portal Suba,0,0,21.8,13,6,pico,FASE I,73.5
+Portal Usme,Terminal (Autopista Norte),0,0,21.8,15,6,pico,FASE I,73.1
+Museo del Oro,Portal Tunal,0,2,21.8,7,1,pico,FASE II,82.6
+Portal Usme,Museo del Oro,0,1,21.8,9,3,pico,FASE I,79.0
+Museo del Oro,Portal Suba,0,2,21.8,14,4,valle,FASE II,79.1
+AV. Jiménez,AV. Jiménez,0,0,21.8,17,1,valle,FASE I,65.3
+Portal Américas,Portal Américas,0,1,21.8,8,3,valle,FASE II,66.8
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,17,4,pico,FASE I,77.3
+Portal Tunal,Portal Suba,0,1,21.8,16,4,valle,FASE II,72.4
+Terminal (Autopista Norte),Héroes,1,1,21.8,9,0,pico,FASE II,71.9
+Héroes,Héroes,0,0,21.8,14,1,pico,FASE I,78.4
+Museo del Oro,Portal Usme,0,1,21.8,13,4,valle,FASE I,71.0
+Portal Suba,Portal Américas,1,0,21.8,11,5,valle,FASE I,59.2
+Portal Américas,Museo del Oro,1,1,21.8,6,6,pico,FASE II,77.0
+Museo del Oro,Portal Tunal,1,3,21.8,11,4,pico,FASE II,94.7
+Portal Suba,Museo del Oro,0,0,21.8,12,3,pico,FASE II,75.1
+Terminal (Autopista Norte),Museo del Oro,0,2,21.8,11,0,valle,FASE II,81.5
+Terminal (Autopista Norte),Museo del Oro,1,0,21.8,18,2,valle,FASE I,57.0
+Terminal (Autopista Norte),Portal Américas,0,1,21.8,9,6,valle,FASE I,72.3
+Portal Suba,Museo del Oro,0,3,21.8,22,0,pico,FASE I,92.4
+Museo del Oro,AV. Jiménez,0,0,21.8,16,2,pico,FASE I,75.2
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,21,1,valle,FASE III,67.4
+AV. Jiménez,AV. Jiménez,1,1,21.8,17,1,valle,FASE III,71.9
+Portal Usme,Portal Américas,0,0,21.8,6,4,pico,FASE I,66.6
+Portal Suba,Portal Usme,0,1,21.8,17,5,valle,FASE II,70.1
+Portal Suba,Portal Suba,0,2,21.8,11,1,valle,FASE II,82.9
+Museo del Oro,Héroes,0,1,21.8,14,4,valle,FASE I,67.8
+Portal Suba,Museo del Oro,0,0,21.8,10,6,valle,FASE I,67.5
+Portal Suba,Portal Usme,0,1,21.8,7,0,valle,FASE I,75.4
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,7,1,valle,FASE II,72.0
+Museo del Oro,Héroes,1,0,21.8,22,0,valle,FASE III,55.8
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,15,0,pico,FASE II,79.7
+Portal Usme,Portal Tunal,0,1,21.8,9,5,pico,FASE I,84.4
+Portal Américas,AV. Jiménez,1,1,21.8,19,1,pico,FASE I,79.7
+Portal Usme,Terminal (Autopista Norte),1,0,21.8,20,0,valle,FASE II,60.7
+Portal Américas,Portal Américas,0,1,21.8,13,5,pico,FASE II,77.1
+Terminal (Autopista Norte),Héroes,0,0,21.8,8,5,valle,FASE II,70.3
+Portal Usme,Terminal (Autopista Norte),0,0,21.8,19,1,pico,FASE II,75.5
+Museo del Oro,Portal Tunal,1,2,21.8,16,5,pico,FASE I,79.3
+Héroes,Portal Usme,1,1,21.8,7,1,valle,FASE II,68.1
+Terminal (Autopista Norte),Héroes,1,0,21.8,18,1,pico,FASE II,68.9
+Portal Américas,Terminal (Autopista Norte),0,0,21.8,21,2,pico,FASE I,71.1
+AV. Jiménez,AV. Jiménez,1,0,21.8,10,0,pico,FASE II,69.1
+Portal Américas,AV. Jiménez,0,0,21.8,8,3,valle,FASE I,68.4
+AV. Jiménez,Portal Suba,0,0,21.8,11,1,pico,FASE I,72.2
+Portal Suba,Terminal (Autopista Norte),0,0,21.8,21,0,valle,FASE I,68.7
+Portal Usme,Museo del Oro,1,1,21.8,20,6,valle,FASE I,61.8
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,19,5,pico,FASE I,86.7
+Portal Américas,Portal Usme,1,1,21.8,12,4,pico,FASE I,75.2
+Portal Suba,Héroes,0,1,21.8,12,1,pico,FASE II,83.3
+Héroes,Héroes,0,0,21.8,22,5,valle,FASE I,65.7
+Museo del Oro,Portal Usme,0,3,21.8,20,5,pico,FASE I,91.6
+Museo del Oro,Terminal (Autopista Norte),0,2,21.8,14,5,pico,FASE I,86.9
+Museo del Oro,Portal Usme,1,2,21.8,21,5,valle,FASE II,68.3
+AV. Jiménez,Portal Tunal,0,2,21.8,17,5,valle,FASE I,81.1
+Héroes,Portal Américas,1,2,21.8,17,1,pico,FASE I,82.6
+AV. Jiménez,Portal Usme,1,1,21.8,11,6,pico,FASE III,74.5
+Portal Usme,AV. Jiménez,1,0,21.8,14,3,valle,FASE II,62.3
+AV. Jiménez,Portal Usme,0,1,21.8,6,2,valle,FASE III,72.2
+Héroes,Héroes,0,1,21.8,8,5,valle,FASE I,73.9
+Héroes,AV. Jiménez,0,1,21.8,10,5,valle,FASE I,74.9
+Portal Usme,Héroes,1,1,21.8,22,2,valle,FASE II,65.4
+Héroes,Portal Suba,1,0,21.8,10,6,valle,FASE I,57.5
+Portal Américas,Museo del Oro,0,0,21.8,21,6,valle,FASE I,59.9
+Héroes,Héroes,1,2,21.8,18,1,pico,FASE I,82.4
+Museo del Oro,AV. Jiménez,0,1,21.8,15,0,valle,FASE II,73.4
+Portal Américas,Portal Suba,0,1,21.8,6,4,pico,FASE I,76.1
+Portal Américas,Héroes,0,0,21.8,7,4,pico,FASE III,77.3
+Portal Usme,Portal Tunal,1,0,21.8,15,0,valle,FASE III,57.6
+Portal Tunal,Portal Usme,0,2,21.8,10,1,pico,FASE I,80.7
+Portal Tunal,Museo del Oro,1,1,21.8,18,4,valle,FASE II,71.5
+Héroes,Héroes,1,2,21.8,20,6,pico,FASE II,76.1
+Portal Américas,Portal Suba,1,1,21.8,11,2,valle,FASE II,69.9
+Portal Tunal,Portal Tunal,0,1,21.8,12,0,valle,FASE I,74.2
+Portal Tunal,Terminal (Autopista Norte),0,0,21.8,20,6,valle,FASE II,66.0
+Héroes,Portal Suba,0,1,21.8,11,3,pico,FASE I,78.5
+Portal Tunal,Portal Usme,0,1,21.8,13,1,pico,FASE III,81.5
+AV. Jiménez,Portal Suba,0,1,21.8,17,0,valle,FASE I,75.2
+Portal Suba,Portal Tunal,1,1,21.8,5,4,pico,FASE I,72.1
+Portal Usme,Portal Suba,0,2,21.8,12,1,valle,FASE II,82.0
+Portal Suba,Portal Tunal,0,0,21.8,8,2,valle,FASE II,67.8
+Héroes,Héroes,0,2,21.8,7,1,pico,FASE II,87.9
+Museo del Oro,Portal Américas,0,0,21.8,7,1,pico,FASE I,71.4
+Portal Usme,Portal Tunal,0,1,21.8,17,2,pico,FASE I,82.8
+Héroes,Portal Tunal,0,0,21.8,12,5,valle,FASE III,66.6
+Portal Américas,Museo del Oro,1,0,21.8,11,2,pico,FASE II,65.0
+Museo del Oro,Portal Tunal,0,1,21.8,5,6,pico,FASE II,78.9
+Portal Suba,Portal Tunal,1,0,21.8,20,1,pico,FASE I,70.5
+Héroes,Terminal (Autopista Norte),1,1,21.8,10,2,valle,FASE I,67.4
+Portal Américas,Portal Américas,0,2,21.8,11,5,pico,FASE II,90.3
+Portal Usme,Héroes,1,0,21.8,16,6,pico,FASE II,67.0
+Portal Usme,Portal Usme,0,2,21.8,13,0,valle,FASE I,76.0
+Terminal (Autopista Norte),Museo del Oro,1,1,21.8,15,2,valle,FASE III,73.6
+Portal Américas,Terminal (Autopista Norte),0,1,21.8,14,2,valle,FASE II,67.0
+AV. Jiménez,AV. Jiménez,1,0,21.8,5,1,pico,FASE I,66.5
+Portal Tunal,Portal Américas,1,0,21.8,22,6,pico,FASE I,68.9
+Museo del Oro,Héroes,1,0,21.8,8,0,valle,FASE I,63.0
+Portal Américas,Héroes,1,0,21.8,9,3,pico,FASE II,70.0
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,13,3,valle,FASE I,72.0
+Portal Tunal,Portal Usme,0,1,21.8,21,4,valle,FASE I,71.7
+Portal Tunal,Portal Tunal,0,2,21.8,7,2,pico,FASE II,84.4
+Héroes,Terminal (Autopista Norte),0,2,21.8,20,2,valle,FASE I,78.4
+Portal Tunal,Portal Suba,1,1,21.8,9,0,valle,FASE I,66.1
+AV. Jiménez,Museo del Oro,0,0,21.8,20,5,pico,FASE I,72.8
+Portal Usme,Portal Suba,1,0,21.8,7,3,valle,FASE II,57.1
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,19,4,pico,FASE II,75.4
+Portal Tunal,Héroes,1,0,21.8,7,0,pico,FASE I,69.2
+Héroes,Portal Usme,0,1,21.8,18,2,pico,FASE II,76.2
+AV. Jiménez,Héroes,1,1,21.8,20,3,valle,FASE II,69.9
+Portal Suba,Museo del Oro,1,0,21.8,21,6,valle,FASE I,57.6
+Portal Usme,Héroes,0,0,21.8,22,4,valle,FASE I,61.5
+Portal Usme,Héroes,0,2,21.8,22,1,pico,FASE I,87.3
+Terminal (Autopista Norte),Museo del Oro,1,2,21.8,18,3,valle,FASE I,68.8
+Portal Usme,Terminal (Autopista Norte),0,0,21.8,22,4,pico,FASE II,74.8
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,19,0,valle,FASE II,70.5
+Héroes,Museo del Oro,0,3,21.8,19,1,pico,FASE I,91.0
+Portal Usme,Portal Usme,0,0,21.8,10,4,pico,FASE I,77.8
+Portal Usme,AV. Jiménez,0,0,21.8,19,4,pico,FASE I,71.0
+Portal Suba,Portal Américas,0,1,21.8,22,2,valle,FASE II,70.5
+Portal Suba,Héroes,0,2,21.8,8,5,pico,FASE I,90.9
+Museo del Oro,Portal Usme,0,2,21.8,12,3,valle,FASE II,76.7
+AV. Jiménez,Héroes,1,0,21.8,19,2,pico,FASE I,70.3
+Portal Tunal,Portal Américas,0,0,21.8,7,6,pico,FASE II,76.6
+Portal Usme,AV. Jiménez,1,1,21.8,19,1,valle,FASE III,68.5
+Portal Américas,Terminal (Autopista Norte),0,1,21.8,17,5,valle,FASE I,67.7
+Portal Usme,Portal Usme,0,0,21.8,13,4,valle,FASE I,63.2
+Héroes,Portal Tunal,0,2,21.8,6,2,pico,FASE III,95.2
+Museo del Oro,Portal Tunal,0,1,21.8,12,5,pico,FASE I,78.6
+AV. Jiménez,Portal Américas,0,2,21.8,21,6,pico,FASE II,96.0
+Portal Américas,Portal Tunal,0,2,21.8,17,3,valle,FASE I,84.2
+Museo del Oro,Terminal (Autopista Norte),0,1,21.8,5,6,valle,FASE II,73.6
+Terminal (Autopista Norte),Portal Américas,0,1,21.8,6,1,valle,FASE I,72.9
+AV. Jiménez,Terminal (Autopista Norte),1,1,21.8,19,0,valle,FASE III,65.6
+Portal Usme,AV. Jiménez,0,0,21.8,16,2,pico,FASE II,72.8
+Portal Usme,Héroes,0,1,21.8,18,1,valle,FASE II,70.0
+AV. Jiménez,AV. Jiménez,1,0,21.8,6,0,valle,FASE II,59.8
+Portal Usme,AV. Jiménez,0,1,21.8,22,2,valle,FASE II,68.0
+Portal Tunal,Terminal (Autopista Norte),0,0,21.8,11,1,pico,FASE I,68.8
+AV. Jiménez,Portal Américas,1,0,21.8,10,6,pico,FASE III,71.9
+Museo del Oro,Portal Américas,0,0,21.8,18,1,pico,FASE III,68.2
+AV. Jiménez,Portal Tunal,1,0,21.8,12,5,pico,FASE I,70.7
+Portal Américas,Portal Suba,1,1,21.8,6,6,pico,FASE III,69.4
+Portal Usme,Héroes,0,1,21.8,21,2,pico,FASE II,81.9
+Portal Tunal,Terminal (Autopista Norte),0,1,21.8,9,1,valle,FASE II,71.4
+Portal Tunal,Portal Tunal,0,0,21.8,18,4,pico,FASE I,77.0
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,7,2,pico,FASE I,72.0
+Museo del Oro,Portal Suba,0,0,21.8,9,1,pico,FASE I,67.0
+Portal Suba,Portal Suba,1,0,21.8,20,5,valle,FASE I,59.5
+Portal Suba,Terminal (Autopista Norte),0,2,21.8,22,0,valle,FASE II,79.5
+AV. Jiménez,Museo del Oro,0,0,21.8,21,0,valle,FASE I,64.6
+Terminal (Autopista Norte),Héroes,1,0,21.8,15,4,pico,FASE I,69.8
+Héroes,Portal Suba,1,0,21.8,21,2,valle,FASE III,58.3
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,20,5,pico,FASE I,69.2
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,6,1,pico,FASE I,77.0
+Museo del Oro,Portal Tunal,0,1,21.8,8,1,pico,FASE I,78.5
+Museo del Oro,Portal Usme,0,0,21.8,11,0,pico,FASE I,71.5
+Museo del Oro,Museo del Oro,0,0,21.8,6,5,pico,FASE II,80.3
+Museo del Oro,Héroes,0,0,21.8,10,6,valle,FASE II,68.8
+Museo del Oro,Portal Américas,1,0,21.8,21,4,valle,FASE II,62.1
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,11,0,pico,FASE I,74.4
+Terminal (Autopista Norte),Portal Usme,0,3,21.8,9,0,valle,FASE II,86.9
+Portal Tunal,Portal Usme,0,1,21.8,9,4,pico,FASE I,81.0
+Portal Américas,Portal Tunal,0,1,21.8,20,2,pico,FASE I,80.5
+Portal Suba,Portal Américas,1,1,21.8,13,1,valle,FASE I,67.2
+Portal Usme,Portal Suba,1,1,21.8,9,2,valle,FASE I,60.8
+Museo del Oro,Portal Suba,1,1,21.8,12,5,pico,FASE I,73.9
+Héroes,Portal Tunal,0,1,21.8,13,6,pico,FASE I,79.3
+Portal Usme,Terminal (Autopista Norte),0,1,21.8,9,3,valle,FASE III,69.8
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,14,3,valle,FASE I,63.4
+Héroes,Museo del Oro,0,1,21.8,6,3,valle,FASE I,72.9
+Héroes,Héroes,0,1,21.8,13,4,pico,FASE I,82.3
+Héroes,Portal Usme,1,2,21.8,15,0,pico,FASE II,82.9
+Portal Tunal,Portal Usme,0,1,21.8,8,6,pico,FASE I,82.3
+Terminal (Autopista Norte),Museo del Oro,0,1,21.8,6,2,pico,FASE III,82.3
+Héroes,Portal Américas,0,0,21.8,10,1,valle,FASE III,64.1
+Museo del Oro,Portal Suba,0,1,21.8,18,3,valle,FASE I,73.6
+AV. Jiménez,Portal Usme,0,0,21.8,5,2,pico,FASE I,67.8
+Héroes,AV. Jiménez,1,0,21.8,22,3,valle,FASE I,58.9
+Portal Tunal,Portal Américas,1,0,21.8,11,6,valle,FASE II,58.5
+Portal Usme,Héroes,1,1,21.8,5,3,pico,FASE I,79.6
+Terminal (Autopista Norte),Héroes,0,0,21.8,5,1,valle,FASE I,66.1
+Portal Américas,Portal Usme,0,0,21.8,5,5,valle,FASE I,61.0
+Portal Tunal,Portal Tunal,0,2,21.8,8,5,valle,FASE II,80.8
+Héroes,Portal Américas,0,0,21.8,8,6,pico,FASE I,75.8
+Terminal (Autopista Norte),Portal Usme,1,1,21.8,22,5,valle,FASE I,66.8
+AV. Jiménez,Portal Tunal,0,1,21.8,15,4,valle,FASE II,74.1
+Héroes,Portal Usme,0,0,21.8,5,0,pico,FASE II,65.6
+Portal Tunal,AV. Jiménez,0,2,21.8,14,4,pico,FASE III,78.9
+Portal Suba,Portal Américas,0,0,21.8,13,2,valle,FASE I,61.5
+Museo del Oro,Terminal (Autopista Norte),1,1,21.8,8,4,pico,FASE II,75.5
+Portal Américas,Héroes,0,1,21.8,10,2,valle,FASE II,76.6
+Portal Usme,Portal Usme,0,1,21.8,20,2,valle,FASE I,68.7
+Portal Tunal,AV. Jiménez,0,1,21.8,6,0,pico,FASE II,77.5
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,22,1,pico,FASE I,73.3
+Portal Américas,Portal Tunal,1,0,21.8,14,6,valle,FASE III,58.6
+Portal Américas,Héroes,1,1,21.8,21,0,pico,FASE I,73.4
+Portal Américas,Museo del Oro,1,1,21.8,17,6,valle,FASE II,65.8
+Héroes,Portal Usme,1,2,21.8,22,5,valle,FASE I,78.0
+Museo del Oro,Portal Américas,0,2,21.8,17,5,valle,FASE III,82.4
+Héroes,Portal Suba,1,2,21.8,21,4,valle,FASE I,74.1
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,9,2,valle,FASE III,77.0
+Héroes,Portal Américas,0,0,21.8,15,3,pico,FASE III,74.6
+Portal Suba,Portal Américas,1,2,21.8,11,3,valle,FASE I,77.5
+Museo del Oro,Terminal (Autopista Norte),0,1,21.8,14,6,valle,FASE II,69.5
+Museo del Oro,Portal Américas,1,0,21.8,21,2,pico,FASE III,66.1
+Terminal (Autopista Norte),Portal Américas,0,2,21.8,19,6,pico,FASE I,85.0
+Portal Usme,Terminal (Autopista Norte),0,2,21.8,22,0,valle,FASE I,78.8
+Portal Suba,Portal Tunal,1,1,21.8,6,1,pico,FASE II,75.2
+Portal Tunal,Portal Américas,1,0,21.8,8,0,valle,FASE I,61.0
+Héroes,Museo del Oro,0,0,21.8,7,2,valle,FASE I,71.0
+AV. Jiménez,Museo del Oro,0,2,21.8,11,2,pico,FASE I,89.2
+Héroes,AV. Jiménez,0,2,21.8,22,1,valle,FASE I,77.5
+Portal Américas,Terminal (Autopista Norte),0,0,21.8,14,6,pico,FASE I,73.0
+Héroes,AV. Jiménez,0,0,21.8,11,4,pico,FASE I,77.6
+Portal Tunal,Terminal (Autopista Norte),1,2,21.8,12,4,valle,FASE III,76.4
+Héroes,Portal Usme,0,0,21.8,10,1,pico,FASE II,77.5
+Portal Suba,Portal Usme,1,1,21.8,5,4,valle,FASE I,65.6
+Portal Suba,Portal Américas,0,3,21.8,8,3,valle,FASE II,83.9
+Museo del Oro,Portal Suba,0,0,21.8,18,4,valle,FASE II,62.9
+Terminal (Autopista Norte),Portal Usme,1,1,21.8,21,4,pico,FASE III,73.8
+Portal Usme,Portal Suba,0,0,21.8,22,4,pico,FASE I,69.9
+AV. Jiménez,Portal Usme,0,0,21.8,15,3,valle,FASE I,65.9
+Portal Américas,Héroes,0,2,21.8,18,6,valle,FASE III,80.0
+Héroes,Portal Usme,1,1,21.8,13,4,valle,FASE III,71.1
+Héroes,AV. Jiménez,1,3,21.8,19,5,valle,FASE II,75.8
+Portal Tunal,Portal Tunal,0,1,21.8,16,3,pico,FASE II,77.2
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,14,1,pico,FASE I,75.5
+Portal Suba,AV. Jiménez,0,0,21.8,10,0,valle,FASE II,65.6
+AV. Jiménez,Portal Tunal,1,0,21.8,10,1,pico,FASE I,68.2
+Museo del Oro,Museo del Oro,1,0,21.8,12,0,pico,FASE I,71.8
+Portal Suba,AV. Jiménez,0,0,21.8,5,1,valle,FASE II,62.0
+Portal Américas,Museo del Oro,0,0,21.8,21,5,pico,FASE I,70.9
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,21,0,pico,FASE I,77.5
+Portal Américas,Portal Suba,1,1,21.8,19,0,pico,FASE III,69.0
+Portal Usme,Héroes,1,1,21.8,11,2,valle,FASE I,67.4
+Museo del Oro,Portal Usme,0,1,21.8,7,0,valle,FASE III,70.5
+Portal Usme,AV. Jiménez,0,0,21.8,15,0,valle,FASE III,62.8
+Portal Tunal,Museo del Oro,0,0,21.8,13,2,valle,FASE II,62.3
+Portal Américas,Portal Tunal,1,1,21.8,14,4,pico,FASE I,75.0
+Portal Tunal,Portal Suba,0,1,21.8,6,4,valle,FASE I,69.6
+Héroes,Portal Usme,1,0,21.8,5,2,pico,FASE I,68.7
+Portal Usme,Portal Suba,0,2,21.8,20,3,pico,FASE I,88.4
+Terminal (Autopista Norte),Portal Tunal,0,2,21.8,22,0,valle,FASE I,78.2
+Portal Américas,Portal Usme,0,1,21.8,21,0,valle,FASE III,71.0
+AV. Jiménez,Portal Usme,0,0,21.8,10,2,pico,FASE I,73.6
+Museo del Oro,Museo del Oro,0,2,21.8,18,2,pico,FASE II,87.0
+Portal Suba,Museo del Oro,1,1,21.8,19,3,valle,FASE I,71.0
+Terminal (Autopista Norte),AV. Jiménez,0,2,21.8,18,5,pico,FASE II,88.0
+Terminal (Autopista Norte),AV. Jiménez,0,2,21.8,7,4,pico,FASE III,90.3
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,16,1,pico,FASE I,88.9
+Portal Usme,Portal Américas,1,1,21.8,6,5,pico,FASE I,71.1
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,7,6,valle,FASE II,58.4
+Portal Américas,Héroes,0,1,21.8,22,4,pico,FASE II,79.9
+Héroes,Portal Suba,1,1,21.8,5,0,pico,FASE II,77.6
+Héroes,AV. Jiménez,0,1,21.8,10,6,valle,FASE I,77.8
+Museo del Oro,Museo del Oro,0,0,21.8,9,5,valle,FASE I,63.6
+Portal Tunal,Portal Tunal,1,0,21.8,5,2,pico,FASE III,68.2
+Terminal (Autopista Norte),Museo del Oro,1,2,21.8,5,3,pico,FASE III,84.4
+Portal Américas,Portal Suba,1,1,21.8,20,4,pico,FASE I,74.9
+AV. Jiménez,Terminal (Autopista Norte),0,2,21.8,16,3,valle,FASE II,84.0
+Portal Tunal,Museo del Oro,0,2,21.8,12,6,valle,FASE I,75.0
+Museo del Oro,Portal Américas,1,1,21.8,20,4,valle,FASE I,69.1
+Museo del Oro,Héroes,0,1,21.8,5,5,valle,FASE I,74.0
+Portal Tunal,Portal Suba,0,2,21.8,8,0,valle,FASE I,82.5
+Museo del Oro,Terminal (Autopista Norte),0,1,21.8,14,1,valle,FASE II,72.2
+Portal Tunal,Portal Américas,0,1,21.8,15,3,valle,FASE I,74.7
+Portal Suba,Portal Tunal,0,0,21.8,21,3,pico,FASE I,72.3
+Portal Tunal,Terminal (Autopista Norte),1,1,21.8,11,1,valle,FASE II,64.6
+Portal Usme,Portal Usme,0,1,21.8,16,3,pico,FASE II,77.2
+Portal Tunal,Portal Américas,0,0,21.8,11,3,pico,FASE II,68.7
+Museo del Oro,Portal Américas,0,0,21.8,16,4,valle,FASE III,63.7
+Portal Américas,Héroes,1,0,21.8,19,4,pico,FASE I,69.0
+Portal Usme,Portal Suba,0,0,21.8,6,1,valle,FASE II,64.4
+Museo del Oro,Portal Tunal,0,0,21.8,18,6,valle,FASE II,65.6
+Héroes,Héroes,1,1,21.8,17,0,pico,FASE II,78.7
+Héroes,Terminal (Autopista Norte),1,2,21.8,8,5,valle,FASE I,72.5
+Portal Américas,Héroes,1,1,21.8,18,5,pico,FASE I,82.1
+Portal Américas,Portal Américas,1,0,21.8,18,6,pico,FASE III,70.3
+Portal Usme,Portal Suba,0,0,21.8,20,3,valle,FASE I,64.4
+Portal Suba,AV. Jiménez,1,1,21.8,11,0,valle,FASE III,66.4
+Portal Américas,Héroes,0,0,21.8,6,1,valle,FASE II,62.0
+Héroes,Portal Usme,1,2,21.8,14,6,pico,FASE II,82.0
+Portal Tunal,Héroes,1,1,21.8,22,1,valle,FASE II,60.6
+Museo del Oro,Terminal (Autopista Norte),1,2,21.8,21,4,pico,FASE II,85.8
+Héroes,Terminal (Autopista Norte),1,0,21.8,9,3,valle,FASE I,51.6
+Héroes,Portal Tunal,0,1,21.8,16,2,pico,FASE II,80.2
+Portal Suba,Terminal (Autopista Norte),0,0,21.8,10,1,valle,FASE II,61.6
+Portal Usme,Museo del Oro,1,2,21.8,13,6,pico,FASE I,79.9
+Portal Usme,Portal Suba,1,1,21.8,5,3,pico,FASE I,73.3
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,19,0,valle,FASE I,70.8
+Portal Suba,AV. Jiménez,0,0,21.8,10,6,valle,FASE III,61.7
+Portal Tunal,AV. Jiménez,0,0,21.8,22,4,valle,FASE I,67.8
+Portal Usme,Portal Suba,1,1,21.8,10,5,valle,FASE II,70.5
+Museo del Oro,Portal Usme,1,0,21.8,17,0,valle,FASE I,53.0
+Portal Américas,AV. Jiménez,0,1,21.8,5,1,valle,FASE I,70.2
+Portal Suba,Portal Tunal,0,0,21.8,17,1,pico,FASE II,77.5
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,11,0,valle,FASE I,63.1
+Héroes,Portal Suba,1,2,21.8,19,1,pico,FASE II,85.6
+Museo del Oro,Portal Américas,0,2,21.8,16,6,valle,FASE II,79.0
+Museo del Oro,AV. Jiménez,0,2,21.8,5,3,valle,FASE II,78.9
+Héroes,Portal Suba,0,0,21.8,19,1,valle,FASE I,65.2
+Portal Suba,Museo del Oro,0,0,21.8,8,4,valle,FASE III,66.1
+Héroes,Héroes,0,1,21.8,17,3,valle,FASE II,69.2
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,9,6,valle,FASE III,59.3
+Terminal (Autopista Norte),Portal Suba,1,1,21.8,6,2,pico,FASE I,76.2
+Museo del Oro,Héroes,0,0,21.8,5,1,valle,FASE II,65.6
+AV. Jiménez,AV. Jiménez,1,0,21.8,20,1,pico,FASE III,69.1
+AV. Jiménez,Héroes,0,0,21.8,10,4,valle,FASE III,62.9
+Portal Américas,Terminal (Autopista Norte),0,2,21.8,20,6,pico,FASE I,88.9
+Portal Tunal,Portal Suba,0,0,21.8,18,4,pico,FASE I,73.4
+Portal Usme,Museo del Oro,0,1,21.8,7,5,pico,FASE I,75.3
+Héroes,Portal Usme,1,0,21.8,19,6,pico,FASE I,66.4
+Héroes,AV. Jiménez,1,1,21.8,7,0,valle,FASE I,64.4
+Portal Tunal,Portal Suba,0,0,21.8,6,0,pico,FASE I,70.3
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,5,0,valle,FASE III,77.6
+Portal Américas,AV. Jiménez,1,2,21.8,13,4,pico,FASE I,83.9
+Portal Américas,Portal Tunal,0,0,21.8,13,0,valle,FASE II,63.2
+Portal Tunal,Héroes,0,2,21.8,11,6,valle,FASE I,79.7
+Museo del Oro,Portal Usme,1,3,21.8,7,0,valle,FASE I,81.2
+Portal Américas,Terminal (Autopista Norte),0,2,21.8,22,2,valle,FASE I,76.7
+Terminal (Autopista Norte),Portal Tunal,0,2,21.8,15,0,pico,FASE I,86.0
+Portal Américas,Portal Américas,0,0,21.8,11,1,valle,FASE II,67.6
+Héroes,Portal Suba,1,1,21.8,13,5,pico,FASE III,75.5
+Portal Américas,Museo del Oro,0,0,21.8,5,4,valle,FASE I,66.7
+Museo del Oro,AV. Jiménez,0,0,21.8,18,3,valle,FASE I,68.9
+Portal Tunal,Héroes,1,3,21.8,10,5,pico,FASE I,90.3
+Héroes,AV. Jiménez,0,0,21.8,11,2,valle,FASE III,59.3
+Portal Américas,Portal Usme,1,1,21.8,14,4,valle,FASE II,67.9
+Museo del Oro,Portal Suba,0,2,21.8,11,6,pico,FASE II,85.2
+Terminal (Autopista Norte),AV. Jiménez,1,2,21.8,6,4,pico,FASE II,87.5
+Portal Américas,Héroes,0,3,21.8,8,1,pico,FASE II,95.2
+Museo del Oro,Portal Suba,0,0,21.8,21,6,valle,FASE I,63.2
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,5,5,valle,FASE I,66.7
+Portal Tunal,Museo del Oro,0,1,21.8,14,5,pico,FASE III,80.3
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,19,0,pico,FASE II,62.9
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,14,6,valle,FASE II,62.6
+Héroes,Terminal (Autopista Norte),0,0,21.8,16,1,valle,FASE II,63.8
+Portal Tunal,Portal Américas,0,2,21.8,20,0,pico,FASE I,91.3
+Héroes,Portal Suba,1,1,21.8,13,0,pico,FASE II,74.7
+AV. Jiménez,Museo del Oro,1,0,21.8,19,4,valle,FASE II,64.4
+Portal Suba,Terminal (Autopista Norte),0,1,21.8,21,5,pico,FASE I,81.3
+Portal Américas,Portal Tunal,0,0,21.8,18,0,pico,FASE II,76.0
+Terminal (Autopista Norte),Héroes,0,0,21.8,22,2,valle,FASE III,63.6
+Portal Suba,Portal Tunal,1,2,21.8,6,2,valle,FASE I,75.1
+Portal Suba,AV. Jiménez,0,1,21.8,8,5,pico,FASE I,74.9
+Terminal (Autopista Norte),Museo del Oro,0,2,21.8,22,2,pico,FASE I,86.7
+Portal Tunal,Portal Tunal,0,0,21.8,11,4,pico,FASE II,68.6
+Portal Américas,Portal Suba,1,2,21.8,17,1,pico,FASE I,78.6
+AV. Jiménez,AV. Jiménez,0,1,21.8,19,3,valle,FASE II,69.4
+Héroes,AV. Jiménez,0,1,21.8,5,0,pico,FASE III,82.0
+Museo del Oro,Portal Tunal,0,1,21.8,15,3,valle,FASE I,71.6
+Héroes,Portal Américas,0,2,21.8,14,1,valle,FASE III,79.1
+Museo del Oro,Portal Tunal,0,1,21.8,9,1,pico,FASE III,79.5
+Héroes,Portal Américas,0,1,21.8,20,4,pico,FASE I,83.3
+Terminal (Autopista Norte),Museo del Oro,0,3,21.8,15,2,valle,FASE I,86.1
+AV. Jiménez,Héroes,0,2,21.8,10,2,valle,FASE III,79.8
+Portal Américas,Portal Tunal,0,1,21.8,13,1,valle,FASE III,70.3
+Museo del Oro,Portal Usme,1,1,21.8,17,4,pico,FASE I,78.5
+Portal Américas,Portal Américas,1,0,21.8,12,4,valle,FASE I,63.7
+Portal Américas,Portal Tunal,0,0,21.8,18,5,valle,FASE I,64.9
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,5,6,valle,FASE III,65.3
+Portal Usme,Portal Suba,0,2,21.8,21,0,pico,FASE I,82.2
+Portal Tunal,Portal Usme,0,2,21.8,9,6,valle,FASE II,76.4
+Héroes,Portal Usme,0,0,21.8,6,2,valle,FASE II,58.5
+Portal Américas,Portal Américas,0,1,21.8,13,1,pico,FASE I,77.3
+Héroes,Terminal (Autopista Norte),1,0,21.8,8,5,valle,FASE II,61.1
+Portal Américas,Terminal (Autopista Norte),1,3,21.8,21,3,pico,FASE I,88.9
+Museo del Oro,AV. Jiménez,1,3,21.8,21,2,pico,FASE III,96.0
+Portal Tunal,Portal Américas,0,1,21.8,22,0,pico,FASE I,78.9
+Portal Tunal,Héroes,0,2,21.8,20,4,valle,FASE II,77.7
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,12,1,pico,FASE II,83.2
+Portal Usme,Museo del Oro,0,1,21.8,15,2,valle,FASE I,66.3
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,22,3,valle,FASE I,60.6
+Terminal (Autopista Norte),Museo del Oro,0,1,21.8,14,0,pico,FASE I,82.0
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,17,0,valle,FASE I,71.5
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,21,5,valle,FASE II,71.5
+Terminal (Autopista Norte),Museo del Oro,1,0,21.8,22,2,valle,FASE II,57.2
+AV. Jiménez,Portal Tunal,1,2,21.8,14,3,valle,FASE I,74.8
+Portal Tunal,Héroes,1,0,21.8,20,0,valle,FASE II,57.6
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,9,1,pico,FASE II,80.3
+Portal Américas,Portal Tunal,0,1,21.8,17,0,valle,FASE II,68.6
+Portal Tunal,AV. Jiménez,0,1,21.8,22,3,pico,FASE I,79.5
+Portal Tunal,Portal Tunal,1,1,21.8,21,4,valle,FASE I,73.1
+Portal Suba,Portal Suba,0,0,21.8,13,4,pico,FASE I,71.8
+AV. Jiménez,Héroes,0,0,21.8,18,5,valle,FASE II,64.6
+Terminal (Autopista Norte),Portal Suba,1,1,21.8,21,2,valle,FASE I,66.4
+Héroes,Portal Suba,0,1,21.8,8,3,valle,FASE I,72.6
+Museo del Oro,AV. Jiménez,0,0,21.8,22,5,pico,FASE I,74.4
+Portal Usme,Héroes,0,1,21.8,19,6,pico,FASE II,80.8
+Portal Américas,Héroes,0,1,21.8,15,0,valle,FASE I,72.9
+Héroes,Portal Américas,0,1,21.8,16,6,valle,FASE I,71.5
+AV. Jiménez,Héroes,0,2,21.8,13,0,pico,FASE I,87.3
+Museo del Oro,Héroes,0,0,21.8,17,4,valle,FASE I,64.4
+AV. Jiménez,Héroes,0,0,21.8,19,5,valle,FASE II,59.6
+Portal Américas,AV. Jiménez,1,2,21.8,19,4,pico,FASE I,89.9
+Portal Tunal,Portal Tunal,0,1,21.8,9,1,valle,FASE I,74.2
+Museo del Oro,Portal Américas,0,1,21.8,18,6,valle,FASE II,69.1
+Portal Tunal,Portal Suba,0,2,21.8,21,6,valle,FASE I,79.7
+Portal Américas,Héroes,1,2,21.8,22,4,pico,FASE I,78.0
+Héroes,Portal Usme,0,3,21.8,7,1,valle,FASE III,84.6
+Portal Américas,Portal Tunal,0,1,21.8,6,0,valle,FASE I,67.6
+Héroes,Portal Tunal,1,1,21.8,5,5,pico,FASE I,74.9
+Museo del Oro,Portal Suba,1,1,21.8,14,1,valle,FASE I,62.3
+Museo del Oro,AV. Jiménez,0,0,21.8,21,5,valle,FASE I,66.2
+Terminal (Autopista Norte),Museo del Oro,1,1,21.8,16,6,valle,FASE II,69.1
+AV. Jiménez,Museo del Oro,0,0,21.8,5,5,pico,FASE II,70.6
+Terminal (Autopista Norte),Portal Tunal,0,2,21.8,16,6,valle,FASE II,79.5
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,21,1,valle,FASE I,69.4
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,7,6,pico,FASE I,81.6
+Portal Tunal,Portal Suba,1,0,21.8,15,2,pico,FASE II,66.0
+Museo del Oro,Museo del Oro,0,0,21.8,21,6,valle,FASE III,67.4
+Héroes,Portal Tunal,0,0,21.8,7,4,valle,FASE I,59.6
+AV. Jiménez,AV. Jiménez,1,1,21.8,12,1,pico,FASE I,72.0
+Portal Américas,Museo del Oro,1,0,21.8,8,0,valle,FASE I,56.7
+AV. Jiménez,Portal Tunal,0,1,21.8,11,5,pico,FASE I,80.7
+Héroes,Portal Tunal,0,2,21.8,18,3,valle,FASE I,80.7
+Terminal (Autopista Norte),Héroes,0,2,21.8,18,1,valle,FASE I,79.9
+AV. Jiménez,AV. Jiménez,1,1,21.8,8,4,valle,FASE II,65.5
+Portal Usme,Héroes,1,0,21.8,20,6,pico,FASE II,59.7
+Portal Tunal,Portal Suba,1,2,21.8,5,5,valle,FASE I,74.2
+Museo del Oro,Héroes,0,2,21.8,21,2,pico,FASE I,89.4
+Héroes,Portal Usme,0,0,21.8,14,0,pico,FASE II,81.1
+Museo del Oro,Héroes,0,1,21.8,20,2,valle,FASE I,70.8
+Portal Usme,Portal Usme,0,0,21.8,20,3,valle,FASE II,63.0
+AV. Jiménez,Museo del Oro,0,2,21.8,12,1,pico,FASE I,88.0
+AV. Jiménez,Terminal (Autopista Norte),1,3,21.8,11,5,valle,FASE II,80.3
+Portal Américas,Portal Américas,0,0,21.8,10,1,valle,FASE I,68.9
+Portal Usme,Portal Américas,0,2,21.8,20,4,pico,FASE I,84.6
+Héroes,Portal Tunal,1,1,21.8,20,1,valle,FASE I,66.3
+Portal Américas,Portal Américas,0,3,21.8,11,0,valle,FASE I,88.7
+Portal Tunal,Portal Usme,1,1,21.8,13,3,valle,FASE I,68.0
+Portal Américas,AV. Jiménez,0,2,21.8,18,2,valle,FASE II,82.5
+Portal Suba,Héroes,0,0,21.8,15,3,valle,FASE I,63.7
+Héroes,Portal Usme,0,0,21.8,18,5,pico,FASE I,76.8
+Portal Suba,AV. Jiménez,0,0,21.8,11,1,valle,FASE II,60.0
+Portal Usme,Terminal (Autopista Norte),1,3,21.8,5,5,valle,FASE II,76.2
+Terminal (Autopista Norte),Portal Américas,0,2,21.8,17,2,pico,FASE III,90.9
+Portal Suba,Terminal (Autopista Norte),0,2,21.8,7,5,valle,FASE II,79.1
+Portal Tunal,Portal Américas,0,2,21.8,8,4,valle,FASE I,81.8
+Portal Américas,Héroes,0,0,21.8,15,3,valle,FASE II,65.3
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,6,2,pico,FASE III,68.0
+Portal Américas,Héroes,0,0,21.8,18,2,pico,FASE II,69.1
+Portal Suba,Museo del Oro,1,0,21.8,16,6,valle,FASE I,60.0
+Portal Américas,Portal Usme,1,0,21.8,21,2,pico,FASE I,72.1
+Portal Usme,Portal Tunal,0,1,21.8,16,6,valle,FASE I,72.2
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,16,0,pico,FASE II,70.1
+Portal Usme,Héroes,0,0,21.8,5,6,pico,FASE II,75.0
+Portal Suba,AV. Jiménez,0,0,21.8,17,3,pico,FASE II,70.0
+Portal Usme,Portal Suba,0,0,21.8,18,5,pico,FASE I,75.6
+Portal Tunal,Portal Usme,1,3,21.8,6,6,valle,FASE II,80.1
+Portal Suba,Portal Américas,1,2,21.8,16,2,valle,FASE II,73.3
+Portal Suba,Portal Suba,0,3,21.8,20,3,pico,FASE I,100.3
+Portal Suba,Portal Américas,1,1,21.8,8,6,pico,FASE II,76.8
+Héroes,Portal Usme,0,0,21.8,12,6,valle,FASE I,63.1
+Portal Américas,Héroes,0,2,21.8,6,2,pico,FASE III,87.2
+Héroes,Portal Usme,0,0,21.8,14,4,valle,FASE II,65.1
+Héroes,Portal Suba,1,0,21.8,13,4,valle,FASE II,65.1
+Portal Tunal,AV. Jiménez,0,0,21.8,19,6,valle,FASE II,65.2
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,0,21.8,17,4,valle,FASE III,71.7
+Portal Américas,Portal Suba,0,0,21.8,21,1,valle,FASE I,61.1
+Portal Usme,Portal Usme,0,0,21.8,20,2,valle,FASE I,64.9
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,6,1,pico,FASE II,77.8
+Portal Suba,Portal Usme,0,0,21.8,18,3,pico,FASE I,71.6
+Portal Usme,AV. Jiménez,1,0,21.8,7,1,pico,FASE I,66.6
+Portal Suba,Portal Usme,0,2,21.8,16,3,valle,FASE III,76.9
+Portal Tunal,Héroes,0,0,21.8,12,6,valle,FASE II,70.2
+Portal Suba,Portal Tunal,0,0,21.8,6,3,valle,FASE I,69.3
+Héroes,Portal Américas,1,2,21.8,8,3,pico,FASE I,83.2
+Portal Américas,Portal Américas,1,0,21.8,18,5,valle,FASE I,58.6
+AV. Jiménez,Portal Suba,0,0,21.8,20,1,pico,FASE I,71.0
+Museo del Oro,Portal Tunal,1,1,21.8,6,5,pico,FASE I,77.3
+Portal Suba,Portal Usme,0,0,21.8,16,6,pico,FASE II,73.9
+Portal Usme,AV. Jiménez,0,1,21.8,18,2,pico,FASE I,79.6
+Héroes,Portal Suba,0,2,21.8,10,1,valle,FASE I,80.7
+Museo del Oro,Portal Usme,0,0,21.8,17,2,pico,FASE I,75.7
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,8,2,valle,FASE III,71.6
+Museo del Oro,Museo del Oro,1,1,21.8,22,3,valle,FASE I,64.7
+Héroes,Portal Usme,1,0,21.8,16,1,valle,FASE I,56.1
+Portal Américas,Portal Tunal,1,1,21.8,12,2,valle,FASE I,67.8
+Portal Américas,Portal Suba,0,0,21.8,11,4,pico,FASE II,79.5
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,20,2,valle,FASE II,68.7
+Portal Américas,Portal Suba,1,0,21.8,10,4,valle,FASE I,63.3
+Terminal (Autopista Norte),Portal Usme,0,1,21.8,15,1,pico,FASE I,78.0
+Museo del Oro,Héroes,0,0,21.8,9,6,valle,FASE I,63.6
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,20,5,pico,FASE II,89.8
+Portal Usme,Portal Usme,1,0,21.8,11,1,pico,FASE II,67.3
+Portal Usme,Portal Américas,0,1,21.8,9,5,valle,FASE I,72.8
+Museo del Oro,Portal Tunal,0,1,21.8,15,5,valle,FASE I,72.7
+Portal Suba,Museo del Oro,1,1,21.8,19,1,pico,FASE I,73.0
+Portal Suba,Museo del Oro,0,1,21.8,7,2,valle,FASE I,74.7
+Portal Américas,AV. Jiménez,0,1,21.8,9,0,valle,FASE II,71.9
+Portal Usme,Portal Suba,0,2,21.8,9,2,valle,FASE I,74.9
+Portal Usme,Portal Tunal,0,2,21.8,13,2,pico,FASE I,84.4
+Terminal (Autopista Norte),AV. Jiménez,1,0,21.8,19,6,valle,FASE I,50.7
+Portal Tunal,Portal Tunal,0,1,21.8,7,3,pico,FASE III,80.2
+Héroes,Portal Américas,0,2,21.8,10,3,valle,FASE III,83.0
+Portal Suba,Portal Suba,1,3,21.8,21,2,pico,FASE I,85.9
+Portal Usme,Portal Usme,1,2,21.8,12,4,pico,FASE I,83.8
+Terminal (Autopista Norte),Portal Usme,1,0,21.8,15,6,valle,FASE I,61.3
+AV. Jiménez,Museo del Oro,0,0,21.8,10,5,pico,FASE I,70.8
+Terminal (Autopista Norte),Portal Usme,0,1,21.8,12,3,pico,FASE I,84.6
+Portal Suba,Portal Usme,1,1,21.8,14,2,pico,FASE II,74.2
+Portal Suba,Portal Américas,1,1,21.8,7,6,valle,FASE II,73.1
+Terminal (Autopista Norte),Héroes,0,1,21.8,18,0,pico,FASE III,75.1
+Héroes,Museo del Oro,0,2,21.8,18,4,valle,FASE I,78.2
+Museo del Oro,AV. Jiménez,0,0,21.8,14,1,pico,FASE II,72.6
+Portal Suba,Terminal (Autopista Norte),1,2,21.8,16,2,pico,FASE II,81.9
+Terminal (Autopista Norte),Héroes,0,1,21.8,10,6,pico,FASE I,82.2
+Portal Usme,AV. Jiménez,0,0,21.8,16,2,valle,FASE I,75.2
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,18,5,pico,FASE I,81.4
+Portal Tunal,Héroes,1,2,21.8,6,4,pico,FASE I,82.1
+Museo del Oro,Portal Américas,1,0,21.8,13,3,valle,FASE I,56.8
+AV. Jiménez,AV. Jiménez,0,0,21.8,14,3,valle,FASE II,59.4
+Héroes,Portal Suba,1,3,21.8,21,3,pico,FASE I,92.6
+Portal Américas,Museo del Oro,1,0,21.8,21,1,pico,FASE III,66.4
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,7,6,valle,FASE I,79.9
+Museo del Oro,Portal Suba,0,1,21.8,5,4,pico,FASE III,82.6
+Museo del Oro,Portal Usme,0,1,21.8,16,4,pico,FASE I,81.1
+Museo del Oro,Portal Tunal,1,1,21.8,11,3,valle,FASE II,68.2
+AV. Jiménez,Portal Suba,0,0,21.8,8,3,valle,FASE I,66.3
+Portal Usme,Portal Suba,0,1,21.8,14,5,valle,FASE I,70.0
+Museo del Oro,Terminal (Autopista Norte),1,0,21.8,17,0,pico,FASE III,62.8
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,6,0,pico,FASE I,78.4
+AV. Jiménez,Portal Usme,1,0,21.8,14,2,valle,FASE II,60.0
+Portal Américas,AV. Jiménez,0,1,21.8,8,2,pico,FASE II,78.1
+Museo del Oro,AV. Jiménez,0,0,21.8,22,4,valle,FASE I,61.2
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,9,4,valle,FASE I,57.8
+Portal Usme,Portal Américas,1,0,21.8,6,1,pico,FASE II,71.1
+Portal Tunal,Portal Américas,0,0,21.8,16,1,valle,FASE I,67.3
+Portal Usme,Portal Tunal,1,2,21.8,21,0,valle,FASE II,74.6
+Portal Américas,Portal Tunal,1,0,21.8,14,2,valle,FASE III,61.8
+Museo del Oro,Portal Usme,0,2,21.8,6,0,pico,FASE I,83.6
+Portal Américas,Terminal (Autopista Norte),1,3,21.8,10,0,pico,FASE I,86.7
+AV. Jiménez,Museo del Oro,0,1,21.8,12,2,valle,FASE II,73.0
+Portal Suba,AV. Jiménez,0,0,21.8,15,6,pico,FASE I,70.0
+Museo del Oro,Terminal (Autopista Norte),0,0,21.8,16,1,valle,FASE I,65.4
+Portal Suba,Héroes,1,2,21.8,13,5,pico,FASE I,78.3
+Terminal (Autopista Norte),AV. Jiménez,1,0,21.8,6,5,valle,FASE II,55.1
+Portal Tunal,Terminal (Autopista Norte),0,0,21.8,12,5,pico,FASE I,75.2
+Héroes,AV. Jiménez,0,1,21.8,15,2,valle,FASE I,75.1
+Portal Américas,Museo del Oro,0,2,21.8,8,3,pico,FASE II,85.1
+Portal Usme,Héroes,0,2,21.8,14,3,pico,FASE I,82.5
+Portal Tunal,Portal Américas,1,0,21.8,20,3,pico,FASE I,61.4
+Museo del Oro,Portal Américas,1,1,21.8,12,4,valle,FASE III,72.6
+Portal Suba,Museo del Oro,0,0,21.8,8,1,pico,FASE II,73.4
+Portal Usme,Portal Usme,1,0,21.8,14,1,valle,FASE II,58.2
+Portal Suba,Héroes,0,2,21.8,16,6,valle,FASE I,77.9
+AV. Jiménez,Portal Suba,1,0,21.8,18,6,pico,FASE II,62.3
+Portal Suba,Terminal (Autopista Norte),1,0,21.8,20,4,valle,FASE I,61.9
+AV. Jiménez,Héroes,0,0,21.8,22,0,pico,FASE I,79.0
+Terminal (Autopista Norte),Portal Usme,0,2,21.8,16,6,valle,FASE I,76.7
+Portal Usme,Portal Usme,1,2,21.8,22,5,valle,FASE I,81.2
+Portal Usme,Museo del Oro,0,1,21.8,11,3,pico,FASE II,79.7
+Héroes,AV. Jiménez,0,2,21.8,11,5,pico,FASE I,92.0
+Museo del Oro,Héroes,0,0,21.8,13,3,pico,FASE II,74.0
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,5,5,valle,FASE II,73.0
+Héroes,Héroes,0,0,21.8,10,0,pico,FASE II,78.6
+Portal Suba,Portal Tunal,1,0,21.8,10,5,valle,FASE I,62.4
+Portal Suba,AV. Jiménez,1,1,21.8,16,5,pico,FASE II,76.2
+Héroes,Terminal (Autopista Norte),0,2,21.8,16,2,valle,FASE I,73.2
+Portal Usme,Portal Américas,1,0,21.8,14,5,pico,FASE I,63.5
+Portal Suba,Terminal (Autopista Norte),0,0,21.8,10,2,valle,FASE III,66.4
+Portal Américas,Portal Suba,1,0,21.8,21,1,valle,FASE I,64.4
+Terminal (Autopista Norte),Museo del Oro,1,0,21.8,22,4,valle,FASE I,60.4
+Terminal (Autopista Norte),Portal Suba,0,2,21.8,10,5,pico,FASE III,85.3
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,14,1,pico,FASE I,69.5
+Héroes,AV. Jiménez,0,1,21.8,12,6,pico,FASE II,77.7
+Portal Américas,Héroes,0,2,21.8,10,6,valle,FASE I,79.4
+AV. Jiménez,Portal Américas,1,0,21.8,11,2,pico,FASE I,65.5
+AV. Jiménez,Héroes,0,1,21.8,5,5,valle,FASE I,69.1
+Héroes,AV. Jiménez,0,1,21.8,22,5,pico,FASE I,79.9
+Portal Américas,Terminal (Autopista Norte),0,1,21.8,16,0,valle,FASE I,76.4
+AV. Jiménez,Portal Usme,1,3,21.8,20,1,valle,FASE II,83.1
+Portal Usme,Héroes,0,2,21.8,14,3,valle,FASE II,79.9
+Portal Américas,Portal Usme,0,0,21.8,14,3,pico,FASE III,73.6
+Portal Usme,Héroes,1,2,21.8,18,0,pico,FASE I,83.7
+AV. Jiménez,Héroes,1,0,21.8,14,2,pico,FASE II,67.7
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,14,3,pico,FASE II,71.8
+AV. Jiménez,Museo del Oro,0,0,21.8,15,3,valle,FASE III,67.3
+Portal Usme,Museo del Oro,0,0,21.8,6,6,valle,FASE I,64.4
+Portal Tunal,Portal Tunal,0,1,21.8,12,6,valle,FASE II,68.5
+Museo del Oro,Portal Suba,0,1,21.8,11,4,pico,FASE III,84.4
+Portal Suba,AV. Jiménez,1,2,21.8,12,1,valle,FASE I,68.4
+Portal Américas,AV. Jiménez,1,1,21.8,5,2,valle,FASE III,71.6
+Portal Tunal,AV. Jiménez,0,1,21.8,6,5,valle,FASE I,73.6
+AV. Jiménez,Portal Tunal,0,0,21.8,22,1,pico,FASE II,70.1
+Terminal (Autopista Norte),Museo del Oro,1,0,21.8,19,2,valle,FASE III,60.1
+Héroes,Terminal (Autopista Norte),0,1,21.8,5,3,valle,FASE II,70.8
+AV. Jiménez,Portal Usme,1,1,21.8,9,4,valle,FASE I,69.5
+Terminal (Autopista Norte),Portal Américas,0,2,21.8,6,1,valle,FASE I,81.4
+Museo del Oro,Portal Usme,0,0,21.8,7,3,pico,FASE III,74.4
+AV. Jiménez,Terminal (Autopista Norte),1,0,21.8,22,2,pico,FASE I,70.3
+Portal Usme,Portal Américas,0,1,21.8,22,1,valle,FASE I,71.7
+Héroes,Portal Tunal,1,0,21.8,18,5,valle,FASE II,65.3
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,0,21.8,12,1,pico,FASE I,76.7
+Terminal (Autopista Norte),AV. Jiménez,0,1,21.8,16,3,valle,FASE I,70.6
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,14,1,valle,FASE I,62.5
+Museo del Oro,Héroes,0,1,21.8,21,5,valle,FASE I,74.2
+AV. Jiménez,Portal Usme,1,0,21.8,15,4,pico,FASE II,67.3
+Museo del Oro,Museo del Oro,0,0,21.8,6,4,valle,FASE II,64.0
+Portal Américas,Museo del Oro,0,0,21.8,8,3,valle,FASE II,68.7
+Portal Suba,Portal Tunal,1,2,21.8,5,2,valle,FASE II,74.0
+Portal Suba,Portal Américas,0,0,21.8,19,3,valle,FASE III,65.8
+Portal Américas,Museo del Oro,0,2,21.8,17,4,valle,FASE II,83.2
+AV. Jiménez,AV. Jiménez,0,0,21.8,12,0,valle,FASE I,72.6
+Portal Usme,Portal Usme,0,2,21.8,8,0,pico,FASE II,85.5
+Museo del Oro,Terminal (Autopista Norte),0,0,21.8,14,1,valle,FASE I,64.4
+Héroes,AV. Jiménez,1,1,21.8,22,5,valle,FASE II,67.3
+Terminal (Autopista Norte),Portal Tunal,1,1,21.8,9,6,pico,FASE II,75.3
+Terminal (Autopista Norte),AV. Jiménez,1,2,21.8,20,6,valle,FASE I,75.2
+AV. Jiménez,Terminal (Autopista Norte),1,0,21.8,5,6,valle,FASE III,58.6
+Portal Usme,Portal Suba,1,0,21.8,16,1,valle,FASE I,56.2
+Portal Suba,Portal Tunal,1,0,21.8,6,0,pico,FASE II,73.3
+Portal Suba,Portal Suba,0,2,21.8,12,4,valle,FASE I,80.9
+Terminal (Autopista Norte),Héroes,1,1,21.8,22,1,pico,FASE III,73.8
+AV. Jiménez,Portal Suba,1,2,21.8,20,6,pico,FASE I,83.4
+Museo del Oro,Héroes,0,0,21.8,9,6,valle,FASE I,70.5
+Portal Suba,Héroes,0,0,21.8,17,3,pico,FASE I,70.7
+Museo del Oro,Portal Suba,0,0,21.8,7,6,valle,FASE I,65.7
+Portal Usme,Portal Tunal,0,3,21.8,12,5,pico,FASE I,89.9
+Portal Suba,Portal Américas,1,1,21.8,16,6,pico,FASE II,74.7
+Portal Suba,Terminal (Autopista Norte),0,2,21.8,6,3,pico,FASE I,88.9
+Portal Tunal,AV. Jiménez,0,0,21.8,15,6,valle,FASE I,61.7
+Portal Suba,AV. Jiménez,1,1,21.8,16,5,valle,FASE I,66.5
+Portal Américas,Terminal (Autopista Norte),0,1,21.8,22,4,valle,FASE II,74.4
+Héroes,Portal Usme,0,0,21.8,17,1,pico,FASE II,74.8
+Portal Américas,Portal Usme,0,2,21.8,9,5,pico,FASE II,83.6
+AV. Jiménez,Héroes,1,2,21.8,16,3,valle,FASE II,75.2
+AV. Jiménez,Héroes,1,2,21.8,6,1,pico,FASE I,83.7
+Museo del Oro,Portal Tunal,0,1,21.8,9,1,pico,FASE I,80.4
+Portal Américas,Museo del Oro,1,0,21.8,11,3,valle,FASE I,63.3
+Portal Américas,Portal Suba,0,0,21.8,16,0,pico,FASE II,71.3
+Portal Américas,Héroes,1,3,21.8,20,6,valle,FASE III,82.3
+Portal Usme,AV. Jiménez,1,0,21.8,12,5,valle,FASE I,56.5
+Portal Suba,Portal Tunal,1,1,21.8,13,3,pico,FASE I,70.2
+Héroes,Portal Suba,0,1,21.8,19,4,pico,FASE I,82.4
+Museo del Oro,Portal Tunal,1,1,21.8,9,2,pico,FASE I,75.1
+Portal Américas,Portal Suba,1,3,21.8,17,3,valle,FASE II,79.6
+Portal Américas,Portal Suba,0,0,21.8,9,6,valle,FASE I,61.8
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,15,6,pico,FASE III,70.5
+Museo del Oro,Héroes,0,0,21.8,14,1,pico,FASE I,68.5
+Portal Américas,Portal Américas,1,1,21.8,17,1,valle,FASE III,70.0
+Museo del Oro,Portal Tunal,0,0,21.8,13,3,valle,FASE II,66.4
+Portal Suba,Portal Américas,1,0,21.8,18,2,pico,FASE II,63.7
+Portal Tunal,Portal Tunal,0,2,21.8,22,3,pico,FASE II,87.4
+Museo del Oro,Terminal (Autopista Norte),0,2,21.8,19,2,pico,FASE II,95.0
+Héroes,AV. Jiménez,0,0,21.8,14,2,valle,FASE II,68.6
+Héroes,Portal Américas,0,0,21.8,11,6,valle,FASE II,62.6
+AV. Jiménez,AV. Jiménez,0,2,21.8,12,6,pico,FASE II,89.2
+Portal Tunal,Portal Usme,0,0,21.8,7,6,valle,FASE III,60.8
+Portal Tunal,Héroes,0,0,21.8,19,4,pico,FASE II,68.9
+AV. Jiménez,Héroes,0,0,21.8,20,6,pico,FASE II,72.8
+Museo del Oro,Museo del Oro,0,1,21.8,8,5,pico,FASE III,81.7
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,10,1,valle,FASE I,62.5
+Héroes,AV. Jiménez,0,3,21.8,5,1,valle,FASE I,88.5
+Héroes,Portal Suba,1,1,21.8,8,2,valle,FASE I,68.5
+Portal Américas,Portal Tunal,1,1,21.8,15,1,pico,FASE II,70.2
+Portal Suba,Héroes,1,0,21.8,16,0,pico,FASE II,67.9
+Portal Tunal,Portal Américas,0,1,21.8,9,2,pico,FASE I,82.9
+Museo del Oro,Portal Tunal,1,1,21.8,20,1,valle,FASE II,68.4
+AV. Jiménez,Portal Tunal,0,2,21.8,17,0,pico,FASE II,87.6
+AV. Jiménez,Museo del Oro,0,2,21.8,17,4,valle,FASE I,80.0
+Museo del Oro,AV. Jiménez,0,1,21.8,21,1,pico,FASE II,81.0
+Portal Usme,Héroes,1,2,21.8,11,0,pico,FASE II,76.1
+Terminal (Autopista Norte),Portal Tunal,0,2,21.8,12,3,valle,FASE I,82.5
+Portal Suba,Héroes,0,2,21.8,17,5,pico,FASE II,86.7
+AV. Jiménez,Portal Suba,1,0,21.8,20,3,pico,FASE II,70.2
+Portal Tunal,Museo del Oro,1,0,21.8,8,0,pico,FASE I,61.1
+Portal Suba,Portal Suba,0,0,21.8,12,2,valle,FASE I,70.0
+Portal Tunal,Héroes,0,1,21.8,20,6,valle,FASE III,68.6
+Portal Usme,Portal Usme,1,1,21.8,14,6,pico,FASE I,82.7
+Héroes,Portal Américas,0,1,21.8,16,6,valle,FASE I,78.4
+Portal Suba,Héroes,0,2,21.8,16,2,pico,FASE I,83.1
+Portal Américas,AV. Jiménez,0,2,21.8,9,1,pico,FASE II,89.5
+AV. Jiménez,Portal Tunal,1,2,21.8,20,6,pico,FASE II,79.0
+Portal Suba,Portal Tunal,1,0,21.8,5,3,valle,FASE II,58.1
+Portal Suba,Portal Suba,1,1,21.8,13,2,pico,FASE I,73.2
+Portal Suba,Portal Américas,1,0,21.8,16,2,pico,FASE III,69.4
+Terminal (Autopista Norte),Museo del Oro,0,0,21.8,9,6,pico,FASE I,74.0
+Portal Suba,Portal Usme,0,0,21.8,7,3,pico,FASE I,69.4
+Portal Tunal,Terminal (Autopista Norte),0,0,21.8,9,4,valle,FASE I,66.4
+Héroes,Portal Américas,0,1,21.8,6,2,pico,FASE I,79.4
+Portal Usme,Portal Tunal,0,2,21.8,18,6,pico,FASE III,81.6
+Museo del Oro,AV. Jiménez,1,0,21.8,6,5,valle,FASE III,58.7
+Portal Suba,Portal Américas,0,1,21.8,17,0,pico,FASE I,85.0
+AV. Jiménez,Portal Suba,1,1,21.8,11,1,valle,FASE III,65.8
+Portal Suba,Portal Suba,0,0,21.8,14,2,valle,FASE II,59.5
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,17,5,pico,FASE III,82.5
+Portal Tunal,AV. Jiménez,0,0,21.8,20,5,valle,FASE I,62.3
+AV. Jiménez,Museo del Oro,0,1,21.8,18,2,pico,FASE II,80.7
+Portal Américas,Portal Américas,1,1,21.8,15,4,valle,FASE I,66.5
+Museo del Oro,AV. Jiménez,0,0,21.8,14,0,pico,FASE II,78.3
+Héroes,Museo del Oro,0,0,21.8,10,1,pico,FASE I,72.5
+AV. Jiménez,AV. Jiménez,0,1,21.8,8,2,valle,FASE II,68.6
+AV. Jiménez,AV. Jiménez,0,2,21.8,5,1,valle,FASE I,77.6
+Héroes,Héroes,0,0,21.8,11,3,valle,FASE I,61.4
+Museo del Oro,Portal Suba,1,1,21.8,13,5,valle,FASE II,66.4
+Portal Suba,Portal Américas,1,1,21.8,12,5,pico,FASE III,80.3
+AV. Jiménez,AV. Jiménez,0,2,21.8,9,2,pico,FASE II,90.8
+Héroes,Portal Américas,1,2,21.8,14,2,pico,FASE III,88.2
+Portal Américas,Terminal (Autopista Norte),0,1,21.8,15,3,valle,FASE I,73.5
+Portal Américas,AV. Jiménez,0,1,21.8,19,4,pico,FASE II,80.5
+Portal Tunal,Portal Tunal,0,2,21.8,10,2,valle,FASE I,76.0
+Héroes,Portal Suba,0,0,21.8,19,5,pico,FASE I,73.8
+Portal Tunal,Portal Tunal,0,0,21.8,9,1,pico,FASE II,72.6
+Portal Américas,Portal Américas,0,0,21.8,14,0,pico,FASE II,75.4
+Museo del Oro,Portal Américas,0,2,21.8,16,6,valle,FASE II,75.7
+Portal Suba,Portal Suba,0,2,21.8,8,1,valle,FASE II,79.2
+Héroes,Portal Américas,0,0,21.8,22,4,valle,FASE II,60.3
+Portal Usme,Portal Tunal,1,1,21.8,20,0,pico,FASE I,76.1
+Portal Américas,AV. Jiménez,0,1,21.8,12,1,valle,FASE I,74.1
+Portal Américas,AV. Jiménez,0,0,21.8,8,1,pico,FASE II,68.2
+Portal Usme,Héroes,0,3,21.8,16,3,valle,FASE I,82.0
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,0,21.8,6,6,valle,FASE I,61.2
+Portal Américas,Portal Américas,0,0,21.8,8,4,pico,FASE I,72.5
+AV. Jiménez,Portal Tunal,0,1,21.8,9,5,valle,FASE II,67.8
+Museo del Oro,Portal Américas,0,1,21.8,7,3,valle,FASE I,76.2
+Héroes,Portal Américas,0,0,21.8,13,0,pico,FASE II,74.3
+Portal Usme,Museo del Oro,0,1,21.8,22,6,valle,FASE II,73.8
+AV. Jiménez,Héroes,0,1,21.8,15,5,pico,FASE I,75.3
+Portal Usme,Portal Tunal,0,0,21.8,7,3,pico,FASE II,76.9
+Héroes,Portal Tunal,0,0,21.8,6,6,pico,FASE II,75.0
+Portal Tunal,Portal Américas,0,1,21.8,13,4,pico,FASE II,78.0
+Héroes,Héroes,1,0,21.8,18,2,valle,FASE II,55.4
+Terminal (Autopista Norte),AV. Jiménez,0,2,21.8,8,2,pico,FASE I,86.8
+Héroes,Portal Tunal,0,2,21.8,13,0,valle,FASE II,77.6
+Héroes,AV. Jiménez,0,3,21.8,17,2,pico,FASE I,92.8
+Terminal (Autopista Norte),Héroes,1,0,21.8,22,3,valle,FASE III,57.9
+Museo del Oro,AV. Jiménez,0,3,21.8,19,0,valle,FASE II,88.2
+Portal Américas,Portal Suba,0,1,21.8,14,5,valle,FASE II,64.2
+Héroes,Museo del Oro,0,0,21.8,20,4,pico,FASE I,77.3
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,16,0,pico,FASE I,76.0
+AV. Jiménez,Portal Tunal,0,0,21.8,9,5,pico,FASE I,73.7
+Portal Tunal,Terminal (Autopista Norte),0,1,21.8,6,0,valle,FASE I,71.6
+Portal Tunal,Museo del Oro,1,1,21.8,14,1,valle,FASE I,70.3
+Héroes,Portal Usme,0,0,21.8,5,1,pico,FASE II,72.9
+Museo del Oro,AV. Jiménez,1,1,21.8,11,0,pico,FASE I,74.2
+Museo del Oro,Portal Tunal,1,0,21.8,21,6,valle,FASE III,63.5
+AV. Jiménez,AV. Jiménez,0,1,21.8,20,2,pico,FASE I,86.3
+Héroes,Portal Suba,0,0,21.8,7,1,valle,FASE III,62.1
+Portal Tunal,Héroes,0,2,21.8,18,6,valle,FASE III,80.3
+Museo del Oro,Portal Tunal,0,2,21.8,14,6,valle,FASE II,75.8
+Héroes,Portal Usme,0,1,21.8,11,4,pico,FASE II,81.5
+Portal Usme,Portal Usme,1,0,21.8,21,5,pico,FASE I,65.7
+Museo del Oro,Portal Suba,1,0,21.8,10,3,valle,FASE II,63.7
+Terminal (Autopista Norte),Portal Suba,0,2,21.8,8,1,valle,FASE I,78.7
+Portal Usme,Portal Américas,0,0,21.8,21,0,pico,FASE I,73.2
+Portal Américas,Portal Tunal,1,0,21.8,13,2,pico,FASE II,72.9
+Museo del Oro,AV. Jiménez,1,0,21.8,8,3,valle,FASE I,57.8
+Portal Tunal,Terminal (Autopista Norte),1,1,21.8,11,5,valle,FASE II,69.1
+Portal Suba,Portal Usme,0,1,21.8,6,6,valle,FASE I,70.1
+Portal Usme,Portal Usme,0,2,21.8,21,5,valle,FASE I,82.6
+Portal Américas,Portal Suba,0,0,21.8,12,1,pico,FASE I,78.4
+AV. Jiménez,Museo del Oro,0,0,21.8,19,5,pico,FASE I,72.3
+AV. Jiménez,Portal Suba,0,2,21.8,19,5,valle,FASE I,72.5
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,12,2,valle,FASE I,77.0
+Museo del Oro,AV. Jiménez,1,0,21.8,20,6,pico,FASE I,75.3
+Héroes,AV. Jiménez,0,1,21.8,15,2,pico,FASE II,78.3
+Museo del Oro,Museo del Oro,0,0,21.8,6,2,valle,FASE I,70.4
+Portal Tunal,Portal Usme,0,2,21.8,21,0,pico,FASE II,85.2
+AV. Jiménez,Portal Suba,0,0,21.8,20,5,pico,FASE I,71.1
+Museo del Oro,Portal Américas,0,2,21.8,19,5,valle,FASE III,81.4
+AV. Jiménez,AV. Jiménez,0,1,21.8,17,5,valle,FASE I,74.0
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,19,4,valle,FASE I,69.6
+Portal Américas,Portal Tunal,0,0,21.8,8,2,pico,FASE II,73.1
+Héroes,Héroes,0,1,21.8,20,3,valle,FASE I,75.1
+Portal Usme,Héroes,0,1,21.8,16,1,valle,FASE II,74.9
+AV. Jiménez,Héroes,1,0,21.8,8,6,valle,FASE I,63.5
+AV. Jiménez,Portal Américas,1,1,21.8,7,3,valle,FASE III,65.2
+Portal Suba,Portal Usme,1,3,21.8,21,6,pico,FASE I,92.1
+Portal Suba,Portal Suba,0,1,21.8,22,0,pico,FASE I,78.5
+Portal Usme,Museo del Oro,0,1,21.8,22,0,pico,FASE II,79.6
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,21,6,pico,FASE I,72.5
+Portal Usme,Portal Américas,0,1,21.8,16,5,valle,FASE II,69.0
+Portal Suba,AV. Jiménez,1,0,21.8,8,3,valle,FASE I,54.8
+AV. Jiménez,Portal Tunal,0,1,21.8,16,5,valle,FASE II,75.7
+Portal Tunal,Portal Américas,1,2,21.8,19,4,valle,FASE I,71.9
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,20,0,pico,FASE II,74.2
+AV. Jiménez,Portal Tunal,0,0,21.8,9,0,pico,FASE II,70.8
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,19,3,pico,FASE I,67.3
+Portal Tunal,Portal Usme,0,1,21.8,21,0,pico,FASE I,78.5
+Portal Suba,Portal Suba,0,1,21.8,22,4,pico,FASE I,83.9
+Portal Usme,Héroes,0,2,21.8,9,4,valle,FASE III,77.3
+Museo del Oro,Portal Américas,0,2,21.8,17,4,valle,FASE I,84.2
+Héroes,Portal Suba,0,1,21.8,17,1,pico,FASE I,83.5
+Portal Suba,Portal Usme,0,0,21.8,22,4,pico,FASE I,71.6
+Portal Suba,Museo del Oro,0,0,21.8,18,4,valle,FASE I,66.0
+Museo del Oro,Museo del Oro,0,0,21.8,8,1,pico,FASE II,74.6
+Héroes,Portal Usme,0,0,21.8,8,5,valle,FASE III,67.6
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,17,2,valle,FASE II,74.9
+Terminal (Autopista Norte),AV. Jiménez,0,1,21.8,16,0,valle,FASE II,72.6
+Portal Usme,AV. Jiménez,0,1,21.8,11,4,pico,FASE II,77.2
+Terminal (Autopista Norte),Terminal (Autopista Norte),1,0,21.8,16,0,valle,FASE I,62.0
+AV. Jiménez,Museo del Oro,1,0,21.8,8,3,valle,FASE I,59.3
+Portal Américas,Museo del Oro,1,0,21.8,6,0,valle,FASE II,51.7
+Portal Suba,Portal Américas,1,0,21.8,6,6,pico,FASE III,69.2
+Héroes,Museo del Oro,0,2,21.8,9,5,pico,FASE III,84.8
+Portal Suba,Portal Suba,1,0,21.8,14,1,valle,FASE I,58.7
+Portal Tunal,Museo del Oro,0,1,21.8,14,0,valle,FASE I,72.1
+Portal Suba,Portal Tunal,0,0,21.8,13,0,valle,FASE I,60.4
+Portal Suba,Portal Américas,1,2,21.8,17,0,valle,FASE III,74.5
+AV. Jiménez,Héroes,0,1,21.8,11,2,valle,FASE III,71.1
+AV. Jiménez,Museo del Oro,1,0,21.8,9,2,pico,FASE II,65.4
+AV. Jiménez,Terminal (Autopista Norte),1,1,21.8,14,3,valle,FASE I,67.2
+Terminal (Autopista Norte),Héroes,1,1,21.8,14,1,valle,FASE II,62.0
+Portal Tunal,Portal Suba,1,3,21.8,10,0,valle,FASE I,81.3
+Portal Américas,Terminal (Autopista Norte),0,0,21.8,12,0,valle,FASE I,66.5
+Portal Américas,Héroes,0,2,21.8,5,0,pico,FASE II,88.0
+AV. Jiménez,Terminal (Autopista Norte),0,2,21.8,21,0,valle,FASE I,81.4
+Héroes,Portal Suba,0,2,21.8,11,2,pico,FASE I,90.5
+Terminal (Autopista Norte),Portal Américas,0,1,21.8,18,5,pico,FASE III,79.8
+Museo del Oro,Portal Tunal,1,1,21.8,21,5,valle,FASE II,70.3
+Héroes,Portal Suba,1,1,21.8,13,3,pico,FASE I,74.8
+Portal Usme,Portal Suba,0,2,21.8,21,6,valle,FASE II,76.9
+Portal Usme,Terminal (Autopista Norte),0,1,21.8,9,4,pico,FASE I,78.9
+Héroes,Portal Américas,0,1,21.8,12,1,pico,FASE II,80.8
+AV. Jiménez,Portal Usme,0,1,21.8,10,5,valle,FASE II,75.3
+Museo del Oro,AV. Jiménez,1,1,21.8,15,6,valle,FASE II,67.0
+Museo del Oro,Museo del Oro,0,2,21.8,8,0,valle,FASE II,77.0
+Terminal (Autopista Norte),Museo del Oro,0,0,21.8,22,5,valle,FASE I,69.4
+Museo del Oro,Portal Tunal,0,2,21.8,5,3,valle,FASE I,74.7
+Portal Usme,Portal Tunal,0,1,21.8,17,4,pico,FASE I,78.0
+Portal Tunal,Museo del Oro,0,2,21.8,18,5,pico,FASE I,89.7
+AV. Jiménez,AV. Jiménez,0,1,21.8,5,3,pico,FASE II,85.3
+Museo del Oro,Museo del Oro,0,0,21.8,15,2,valle,FASE I,66.5
+Terminal (Autopista Norte),Portal Usme,0,2,21.8,21,4,valle,FASE I,79.8
+Portal Usme,AV. Jiménez,0,0,21.8,8,3,pico,FASE I,72.2
+Portal Tunal,Portal Tunal,1,2,21.8,16,6,valle,FASE III,75.7
+Portal Suba,Héroes,0,1,21.8,14,5,valle,FASE I,72.4
+Portal Suba,Terminal (Autopista Norte),0,1,21.8,10,2,pico,FASE II,77.8
+Portal Tunal,Portal Usme,0,0,21.8,5,6,pico,FASE I,72.1
+Portal Usme,Portal Usme,1,1,21.8,11,3,valle,FASE I,64.4
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,20,3,valle,FASE I,65.1
+Portal Tunal,Portal Tunal,1,0,21.8,18,6,valle,FASE II,60.5
+AV. Jiménez,Portal Tunal,0,0,21.8,10,5,pico,FASE II,77.9
+AV. Jiménez,Portal Suba,0,0,21.8,9,4,valle,FASE III,63.2
+Portal Suba,Portal Usme,0,3,21.8,22,2,pico,FASE I,93.5
+Museo del Oro,Portal Suba,0,3,21.8,19,0,pico,FASE I,97.8
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,10,1,valle,FASE III,65.5
+Portal Suba,Terminal (Autopista Norte),0,1,21.8,5,4,pico,FASE I,81.5
+Museo del Oro,Portal Suba,0,0,21.8,5,2,valle,FASE II,64.3
+Museo del Oro,AV. Jiménez,0,1,21.8,17,6,pico,FASE II,78.6
+Portal Américas,Museo del Oro,0,2,21.8,7,3,valle,FASE I,73.5
+AV. Jiménez,Héroes,0,2,21.8,14,6,valle,FASE II,76.3
+Portal Usme,Portal Tunal,0,1,21.8,7,2,pico,FASE I,80.3
+Héroes,AV. Jiménez,1,2,21.8,13,6,valle,FASE I,73.5
+Portal Usme,Héroes,0,0,21.8,12,6,pico,FASE I,74.9
+Héroes,Portal Usme,0,3,21.8,7,1,valle,FASE II,85.5
+Portal Tunal,Portal Usme,1,0,21.8,17,5,pico,FASE I,65.9
+AV. Jiménez,Portal Usme,0,1,21.8,10,1,pico,FASE II,81.1
+Museo del Oro,AV. Jiménez,1,1,21.8,17,0,pico,FASE III,82.6
+Terminal (Autopista Norte),AV. Jiménez,0,1,21.8,16,0,pico,FASE II,79.1
+Héroes,Portal Tunal,1,0,21.8,17,1,valle,FASE II,60.5
+Portal Usme,Museo del Oro,0,2,21.8,6,4,pico,FASE I,89.6
+Museo del Oro,Portal Américas,1,0,21.8,20,4,pico,FASE I,66.3
+Héroes,Portal Suba,1,1,21.8,10,6,pico,FASE I,78.9
+Héroes,Portal Usme,0,0,21.8,17,6,pico,FASE II,68.3
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,21,3,valle,FASE III,58.8
+Héroes,Museo del Oro,0,1,21.8,13,0,valle,FASE III,71.1
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,21,3,pico,FASE III,80.5
+AV. Jiménez,Portal Tunal,0,0,21.8,6,0,valle,FASE III,59.1
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,11,1,valle,FASE I,69.1
+Portal Suba,Portal Tunal,0,1,21.8,14,4,pico,FASE II,81.3
+Museo del Oro,Héroes,0,2,21.8,14,6,valle,FASE III,82.4
+AV. Jiménez,Terminal (Autopista Norte),0,2,21.8,13,4,valle,FASE I,83.9
+Portal Américas,Museo del Oro,1,0,21.8,21,1,valle,FASE III,57.8
+AV. Jiménez,Portal Américas,1,0,21.8,19,3,valle,FASE I,52.6
+AV. Jiménez,Museo del Oro,0,0,21.8,6,3,pico,FASE II,76.5
+Portal Usme,AV. Jiménez,0,0,21.8,8,2,valle,FASE II,64.2
+AV. Jiménez,AV. Jiménez,0,1,21.8,21,6,valle,FASE III,68.6
+Portal Américas,Portal Usme,0,1,21.8,9,6,valle,FASE I,73.8
+Terminal (Autopista Norte),Portal Américas,0,0,21.8,11,6,valle,FASE II,72.4
+AV. Jiménez,AV. Jiménez,0,0,21.8,22,0,pico,FASE II,72.7
+Portal Tunal,Portal Tunal,0,0,21.8,11,3,valle,FASE I,67.9
+Museo del Oro,Museo del Oro,1,2,21.8,21,1,valle,FASE II,71.1
+AV. Jiménez,Terminal (Autopista Norte),0,3,21.8,11,3,pico,FASE II,89.0
+Museo del Oro,Portal Tunal,0,0,21.8,8,4,pico,FASE II,75.8
+Portal Tunal,Héroes,0,0,21.8,12,0,valle,FASE I,66.7
+Portal Tunal,AV. Jiménez,0,2,21.8,17,6,pico,FASE I,85.6
+Museo del Oro,Portal Tunal,0,2,21.8,8,5,pico,FASE II,92.2
+Héroes,Portal Tunal,0,1,21.8,10,2,valle,FASE I,66.7
+Portal Suba,Héroes,0,0,21.8,9,0,pico,FASE I,69.3
+Portal Usme,Portal Suba,0,0,21.8,16,4,pico,FASE III,71.4
+Héroes,Museo del Oro,1,1,21.8,8,6,pico,FASE II,74.0
+Héroes,Terminal (Autopista Norte),1,0,21.8,13,4,pico,FASE II,72.4
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,8,4,valle,FASE I,65.2
+Portal Usme,Portal Suba,0,1,21.8,18,6,valle,FASE I,71.5
+Portal Usme,AV. Jiménez,0,0,21.8,9,4,pico,FASE I,69.2
+Héroes,Portal Tunal,0,2,21.8,22,1,pico,FASE I,90.3
+AV. Jiménez,Portal Américas,0,0,21.8,14,2,valle,FASE II,61.6
+Terminal (Autopista Norte),Héroes,0,0,21.8,16,5,pico,FASE II,69.2
+Terminal (Autopista Norte),Héroes,0,1,21.8,22,4,pico,FASE I,78.8
+Portal Tunal,Portal Américas,0,0,21.8,21,4,pico,FASE I,73.5
+Portal Américas,Museo del Oro,0,3,21.8,15,3,valle,FASE I,83.9
+Portal Usme,Portal Suba,1,1,21.8,7,2,valle,FASE I,69.2
+Héroes,Portal Usme,1,0,21.8,21,0,valle,FASE I,59.2
+Portal Tunal,Museo del Oro,1,1,21.8,5,2,valle,FASE III,70.2
+Museo del Oro,Portal Américas,0,0,21.8,19,2,valle,FASE II,66.6
+Portal Suba,Portal Tunal,1,2,21.8,13,6,valle,FASE II,79.4
+Portal Américas,Portal Américas,0,0,21.8,19,6,valle,FASE I,63.7
+Portal Américas,Museo del Oro,1,1,21.8,7,6,pico,FASE III,77.6
+Portal Américas,Terminal (Autopista Norte),0,0,21.8,17,5,valle,FASE II,59.7
+Terminal (Autopista Norte),Héroes,1,1,21.8,16,2,valle,FASE II,75.7
+Museo del Oro,Héroes,0,2,21.8,5,5,valle,FASE I,81.4
+Portal Américas,AV. Jiménez,1,2,21.8,21,4,pico,FASE III,81.2
+Museo del Oro,AV. Jiménez,1,0,21.8,17,6,pico,FASE II,67.3
+AV. Jiménez,Portal Américas,0,0,21.8,5,4,valle,FASE III,64.3
+Portal Américas,Portal Usme,0,2,21.8,14,6,valle,FASE I,84.6
+Portal Suba,Portal Tunal,1,2,21.8,19,1,valle,FASE I,76.7
+Museo del Oro,Terminal (Autopista Norte),0,0,21.8,11,5,pico,FASE I,71.7
+Museo del Oro,Portal Suba,1,1,21.8,22,5,valle,FASE I,63.3
+Portal Suba,Museo del Oro,0,0,21.8,20,0,valle,FASE III,68.6
+Portal Américas,Portal Usme,0,2,21.8,18,3,valle,FASE I,81.6
+Portal Suba,Portal Tunal,0,0,21.8,22,2,valle,FASE I,67.2
+Museo del Oro,AV. Jiménez,0,0,21.8,11,0,valle,FASE I,64.8
+Portal Suba,Portal Américas,1,2,21.8,21,5,valle,FASE I,73.1
+Museo del Oro,Museo del Oro,0,0,21.8,22,0,valle,FASE I,70.1
+Museo del Oro,AV. Jiménez,0,1,21.8,16,1,valle,FASE II,77.4
+AV. Jiménez,Portal Américas,0,1,21.8,12,3,pico,FASE II,82.0
+Héroes,Museo del Oro,0,0,21.8,6,5,pico,FASE I,75.9
+Museo del Oro,Portal Suba,1,0,21.8,11,5,valle,FASE I,60.7
+Portal Américas,Portal Tunal,1,1,21.8,8,2,valle,FASE I,62.9
+Portal Tunal,Museo del Oro,0,0,21.8,22,6,valle,FASE I,62.1
+Terminal (Autopista Norte),Terminal (Autopista Norte),1,1,21.8,10,3,valle,FASE II,70.5
+Portal Usme,Portal Usme,1,2,21.8,13,1,pico,FASE II,85.9
+Héroes,Héroes,0,2,21.8,13,4,valle,FASE II,82.2
+Héroes,Terminal (Autopista Norte),1,0,21.8,18,0,valle,FASE II,61.1
+Héroes,Terminal (Autopista Norte),0,0,21.8,12,2,pico,FASE I,76.3
+AV. Jiménez,Portal Usme,0,0,21.8,7,5,pico,FASE III,72.9
+Museo del Oro,Héroes,1,0,21.8,22,4,valle,FASE II,61.9
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,9,1,pico,FASE III,79.4
+Museo del Oro,Museo del Oro,1,1,21.8,18,3,valle,FASE I,63.9
+Portal Américas,Museo del Oro,1,0,21.8,8,0,pico,FASE III,70.6
+AV. Jiménez,Museo del Oro,0,0,21.8,11,2,valle,FASE II,68.9
+AV. Jiménez,Héroes,1,0,21.8,16,5,valle,FASE II,67.5
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,6,5,valle,FASE I,72.8
+Portal Tunal,Portal Américas,0,0,21.8,15,4,pico,FASE II,69.9
+AV. Jiménez,Héroes,0,1,21.8,18,4,valle,FASE III,71.1
+Terminal (Autopista Norte),Museo del Oro,1,0,21.8,20,0,pico,FASE II,67.6
+Portal Suba,Portal Usme,0,2,21.8,10,3,pico,FASE II,87.5
+Portal Tunal,Terminal (Autopista Norte),0,2,21.8,8,1,valle,FASE III,80.5
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,19,6,valle,FASE I,61.1
+AV. Jiménez,AV. Jiménez,1,0,21.8,5,3,valle,FASE II,62.4
+Portal Usme,AV. Jiménez,1,1,21.8,11,3,pico,FASE I,75.6
+Héroes,Portal Suba,0,0,21.8,16,3,pico,FASE III,66.4
+Portal Suba,Portal Américas,0,1,21.8,14,6,pico,FASE I,80.7
+Portal Suba,Portal Américas,0,2,21.8,9,0,valle,FASE II,79.3
+Portal Américas,Portal Tunal,1,1,21.8,16,6,valle,FASE II,68.7
+Terminal (Autopista Norte),Portal Américas,0,2,21.8,22,0,valle,FASE II,78.0
+Portal Suba,AV. Jiménez,0,0,21.8,14,6,valle,FASE II,65.7
+Portal Tunal,Héroes,1,0,21.8,10,1,pico,FASE III,69.7
+AV. Jiménez,Portal Américas,0,1,21.8,16,3,pico,FASE III,79.6
+AV. Jiménez,AV. Jiménez,1,0,21.8,11,0,pico,FASE I,70.1
+Portal Usme,Portal Suba,1,1,21.8,22,6,pico,FASE I,75.3
+Portal Américas,Terminal (Autopista Norte),1,0,21.8,6,1,pico,FASE I,68.5
+Héroes,Portal Américas,0,0,21.8,14,6,valle,FASE I,56.3
+Terminal (Autopista Norte),Portal Suba,0,3,21.8,19,5,pico,FASE II,90.6
+Héroes,Terminal (Autopista Norte),1,0,21.8,16,1,valle,FASE III,56.6
+Portal Suba,Portal Usme,1,3,21.8,21,3,pico,FASE II,89.7
+Portal Américas,Portal Usme,1,3,21.8,8,2,valle,FASE I,84.9
+Portal Usme,Terminal (Autopista Norte),0,2,21.8,11,3,valle,FASE I,78.7
+Héroes,Portal Américas,1,1,21.8,13,2,valle,FASE II,69.6
+Portal Tunal,Portal Tunal,1,1,21.8,11,1,pico,FASE II,77.0
+AV. Jiménez,AV. Jiménez,1,2,21.8,6,5,valle,FASE I,74.5
+Portal Suba,Héroes,1,0,21.8,10,5,valle,FASE III,61.8
+Portal Usme,Héroes,1,1,21.8,22,0,pico,FASE III,75.8
+Héroes,Museo del Oro,0,1,21.8,10,5,pico,FASE I,79.6
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,17,4,pico,FASE III,81.2
+Portal Tunal,Héroes,0,1,21.8,6,1,valle,FASE I,76.4
+Portal Tunal,Portal Américas,0,0,21.8,16,0,valle,FASE II,66.5
+Héroes,Portal Tunal,0,1,21.8,19,5,valle,FASE I,72.7
+AV. Jiménez,Terminal (Autopista Norte),0,2,21.8,18,1,pico,FASE I,84.4
+Héroes,Portal Tunal,0,0,21.8,10,3,pico,FASE III,77.3
+Portal Suba,Portal Américas,0,2,21.8,22,5,valle,FASE I,74.8
+Héroes,Héroes,0,1,21.8,9,6,pico,FASE II,74.9
+Portal Tunal,Héroes,1,2,21.8,22,2,valle,FASE I,75.2
+Portal Usme,Museo del Oro,1,1,21.8,7,1,valle,FASE I,64.4
+Héroes,Héroes,0,2,21.8,7,0,pico,FASE I,90.3
+AV. Jiménez,Terminal (Autopista Norte),1,0,21.8,14,3,valle,FASE I,55.0
+Portal Américas,Portal Américas,0,2,21.8,7,4,pico,FASE II,89.9
+Portal Usme,Portal Usme,0,0,21.8,16,3,valle,FASE I,67.5
+Terminal (Autopista Norte),Portal Américas,0,2,21.8,20,5,pico,FASE II,87.4
+Museo del Oro,Terminal (Autopista Norte),0,3,21.8,21,2,valle,FASE II,79.7
+Héroes,Terminal (Autopista Norte),1,0,21.8,11,3,pico,FASE II,62.9
+AV. Jiménez,Museo del Oro,1,0,21.8,17,4,valle,FASE I,60.8
+Portal Usme,Museo del Oro,0,2,21.8,6,6,valle,FASE III,78.3
+AV. Jiménez,Héroes,0,0,21.8,8,0,pico,FASE I,75.2
+Terminal (Autopista Norte),Portal Suba,0,2,21.8,14,1,valle,FASE I,78.8
+Portal Tunal,Portal Américas,0,0,21.8,11,2,pico,FASE I,72.6
+AV. Jiménez,Portal Américas,0,0,21.8,21,4,valle,FASE I,57.8
+Portal Usme,Portal Suba,0,3,21.8,10,5,pico,FASE I,96.5
+AV. Jiménez,Museo del Oro,1,1,21.8,9,5,valle,FASE II,65.1
+AV. Jiménez,Héroes,1,2,21.8,14,5,pico,FASE I,80.8
+AV. Jiménez,Portal Suba,0,0,21.8,13,2,pico,FASE I,69.8
+Portal Suba,Héroes,1,1,21.8,17,3,pico,FASE II,70.4
+Portal Suba,Héroes,0,1,21.8,10,2,valle,FASE I,76.5
+Portal Tunal,Héroes,0,1,21.8,8,5,pico,FASE I,82.4
+Héroes,AV. Jiménez,0,1,21.8,7,6,valle,FASE I,74.5
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,7,4,valle,FASE II,71.4
+Terminal (Autopista Norte),Héroes,1,1,21.8,8,1,pico,FASE I,69.8
+Héroes,AV. Jiménez,0,0,21.8,9,1,valle,FASE I,71.3
+Terminal (Autopista Norte),Museo del Oro,0,2,21.8,12,2,pico,FASE II,88.3
+Héroes,Portal Suba,0,0,21.8,20,5,pico,FASE II,73.5
+Portal Tunal,Terminal (Autopista Norte),0,1,21.8,7,0,valle,FASE II,71.0
+AV. Jiménez,Portal Usme,1,0,21.8,16,6,valle,FASE II,53.9
+AV. Jiménez,Portal Suba,0,1,21.8,12,2,valle,FASE I,75.5
+Museo del Oro,Terminal (Autopista Norte),0,1,21.8,17,5,pico,FASE I,76.9
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,8,3,pico,FASE I,74.7
+Héroes,Portal Suba,0,0,21.8,18,1,pico,FASE I,75.4
+Héroes,Terminal (Autopista Norte),0,0,21.8,18,1,valle,FASE I,66.0
+Portal Américas,Portal Suba,1,1,21.8,17,6,valle,FASE I,68.4
+Portal Américas,Portal Suba,0,2,21.8,10,1,valle,FASE II,83.1
+Portal Suba,Portal Usme,1,0,21.8,21,0,pico,FASE II,65.7
+Museo del Oro,Portal Suba,1,1,21.8,8,5,pico,FASE I,75.5
+Portal Usme,Portal Suba,1,0,21.8,12,5,pico,FASE II,67.4
+Portal Américas,Portal Usme,0,1,21.8,21,6,pico,FASE I,74.5
+Portal Usme,Museo del Oro,0,2,21.8,7,5,pico,FASE I,87.9
+Portal Suba,Héroes,0,0,21.8,21,6,valle,FASE II,68.8
+Portal Suba,Portal Américas,1,1,21.8,13,5,valle,FASE I,71.2
+Portal Suba,Portal Tunal,0,0,21.8,6,0,valle,FASE I,70.6
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,17,4,valle,FASE I,59.7
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,6,2,pico,FASE III,77.9
+Portal Tunal,Portal Tunal,0,0,21.8,15,2,valle,FASE II,65.6
+Portal Tunal,Terminal (Autopista Norte),0,1,21.8,19,5,pico,FASE I,84.8
+Portal Suba,Héroes,0,1,21.8,15,3,valle,FASE II,70.9
+Museo del Oro,Terminal (Autopista Norte),1,1,21.8,7,1,valle,FASE II,65.4
+Héroes,Héroes,0,0,21.8,7,0,pico,FASE II,69.4
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,16,3,valle,FASE II,67.4
+Museo del Oro,Portal Usme,0,1,21.8,9,3,pico,FASE I,81.6
+AV. Jiménez,Portal Américas,0,3,21.8,11,5,valle,FASE I,82.7
+Terminal (Autopista Norte),Héroes,0,0,21.8,11,0,valle,FASE II,58.5
+Terminal (Autopista Norte),Portal Suba,1,2,21.8,17,2,pico,FASE II,83.3
+Portal Tunal,Museo del Oro,0,1,21.8,13,1,pico,FASE II,81.6
+Héroes,Portal Américas,1,1,21.8,17,2,valle,FASE II,64.1
+Héroes,Portal Américas,0,1,21.8,16,3,valle,FASE III,68.5
+Portal Américas,Portal Suba,0,0,21.8,17,1,pico,FASE III,75.0
+Portal Usme,Museo del Oro,1,0,21.8,14,4,valle,FASE III,65.6
+Portal Usme,Terminal (Autopista Norte),0,1,21.8,5,3,pico,FASE II,78.6
+Portal Usme,Museo del Oro,0,0,21.8,12,2,pico,FASE III,70.4
+Portal Usme,Terminal (Autopista Norte),0,2,21.8,20,2,pico,FASE I,87.9
+AV. Jiménez,Portal Usme,0,1,21.8,17,5,pico,FASE I,81.9
+AV. Jiménez,Portal Tunal,1,0,21.8,7,2,pico,FASE I,66.9
+Terminal (Autopista Norte),Portal Usme,0,1,21.8,7,0,valle,FASE II,78.1
+Portal Suba,Portal Usme,1,0,21.8,9,3,pico,FASE II,70.7
+Portal Tunal,Portal Tunal,1,1,21.8,15,6,pico,FASE II,73.9
+Portal Tunal,Museo del Oro,0,1,21.8,11,6,pico,FASE I,75.3
+Portal Usme,Portal Américas,1,2,21.8,14,1,valle,FASE I,78.0
+Terminal (Autopista Norte),Museo del Oro,0,2,21.8,14,2,valle,FASE II,82.6
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,6,5,pico,FASE I,74.1
+Museo del Oro,Portal Suba,0,1,21.8,7,5,pico,FASE I,81.1
+Portal Suba,Terminal (Autopista Norte),1,2,21.8,12,2,pico,FASE I,81.6
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,15,0,pico,FASE I,74.6
+Portal Suba,Portal Usme,0,0,21.8,17,5,pico,FASE II,70.0
+Portal Suba,Portal Tunal,0,0,21.8,11,6,pico,FASE I,69.5
+Portal Suba,Portal Usme,1,0,21.8,17,1,pico,FASE II,70.5
+Terminal (Autopista Norte),Héroes,0,1,21.8,6,3,valle,FASE I,74.9
+Portal Usme,Museo del Oro,0,1,21.8,10,4,pico,FASE II,78.6
+Portal Tunal,Portal Suba,1,1,21.8,13,0,valle,FASE I,64.8
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,6,5,valle,FASE II,63.5
+Portal Usme,Portal Tunal,1,1,21.8,22,3,valle,FASE II,64.9
+Portal Suba,Portal Suba,1,0,21.8,20,4,pico,FASE I,68.2
+Museo del Oro,Terminal (Autopista Norte),1,1,21.8,16,2,pico,FASE III,74.8
+Héroes,Museo del Oro,1,1,21.8,11,2,pico,FASE II,70.6
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,11,1,valle,FASE I,65.6
+Héroes,Museo del Oro,0,0,21.8,21,4,valle,FASE I,65.3
+Portal Américas,AV. Jiménez,1,0,21.8,17,2,valle,FASE III,61.1
+Portal Usme,Héroes,0,2,21.8,15,2,valle,FASE II,79.5
+Museo del Oro,AV. Jiménez,0,2,21.8,10,6,pico,FASE I,93.4
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,18,5,valle,FASE I,75.5
+Portal Usme,Portal Suba,1,0,21.8,10,1,pico,FASE II,68.2
+Portal Suba,Portal Tunal,0,1,21.8,10,3,pico,FASE II,80.4
+Portal Tunal,Portal Usme,0,1,21.8,6,2,pico,FASE II,85.3
+Héroes,Terminal (Autopista Norte),0,2,21.8,19,6,pico,FASE I,89.6
+AV. Jiménez,Museo del Oro,0,0,21.8,21,0,valle,FASE II,61.4
+AV. Jiménez,AV. Jiménez,0,0,21.8,12,0,pico,FASE I,75.9
+Museo del Oro,Portal Américas,0,1,21.8,9,3,valle,FASE I,75.8
+Portal Suba,AV. Jiménez,0,0,21.8,21,4,valle,FASE II,69.9
+Portal Américas,Portal Usme,1,0,21.8,5,1,valle,FASE III,58.8
+Héroes,AV. Jiménez,0,0,21.8,22,6,pico,FASE I,71.6
+Portal Suba,Portal Usme,1,1,21.8,19,5,valle,FASE I,64.2
+Héroes,Portal Américas,1,2,21.8,9,6,valle,FASE II,75.0
+Museo del Oro,Portal Tunal,0,3,21.8,11,0,pico,FASE II,96.2
+Museo del Oro,Museo del Oro,1,1,21.8,22,0,pico,FASE II,73.5
+Portal Américas,Portal Suba,0,1,21.8,10,3,valle,FASE II,71.6
+AV. Jiménez,Terminal (Autopista Norte),1,0,21.8,9,4,valle,FASE I,53.9
+Portal Suba,Portal Suba,0,1,21.8,14,4,valle,FASE III,76.6
+Terminal (Autopista Norte),Portal Tunal,1,0,21.8,19,3,valle,FASE II,55.3
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,14,6,valle,FASE III,73.2
+Portal Suba,AV. Jiménez,0,0,21.8,20,0,pico,FASE II,73.8
+AV. Jiménez,Portal Américas,0,0,21.8,16,6,pico,FASE III,73.2
+Terminal (Autopista Norte),Portal Américas,1,0,21.8,22,6,pico,FASE I,68.2
+Portal Tunal,Héroes,1,0,21.8,5,1,valle,FASE I,57.0
+Portal Tunal,Portal Tunal,0,0,21.8,20,0,valle,FASE III,64.1
+Portal Américas,Portal Tunal,0,0,21.8,10,4,pico,FASE I,75.9
+Portal Tunal,Museo del Oro,0,3,21.8,7,5,valle,FASE I,89.8
+Portal Tunal,Portal Suba,1,1,21.8,6,6,pico,FASE II,73.8
+Portal Usme,Portal Tunal,0,1,21.8,6,0,pico,FASE II,75.4
+Héroes,Portal Tunal,1,2,21.8,17,6,pico,FASE I,79.7
+Portal Usme,AV. Jiménez,0,3,21.8,13,1,pico,FASE III,99.6
+Portal Usme,AV. Jiménez,0,1,21.8,20,2,pico,FASE II,77.9
+Portal Américas,Terminal (Autopista Norte),0,2,21.8,9,0,pico,FASE II,86.7
+Portal Usme,Portal Usme,0,0,21.8,11,3,pico,FASE II,77.3
+Portal Tunal,Portal Usme,0,0,21.8,17,2,pico,FASE I,71.5
+Terminal (Autopista Norte),Héroes,0,1,21.8,17,6,valle,FASE I,71.5
+Portal Américas,Portal Usme,1,1,21.8,11,3,pico,FASE I,77.4
+Portal Américas,Museo del Oro,0,1,21.8,14,3,valle,FASE II,77.2
+Museo del Oro,Héroes,0,0,21.8,19,3,pico,FASE II,71.1
+Portal Américas,Terminal (Autopista Norte),0,0,21.8,10,0,pico,FASE II,77.2
+Museo del Oro,AV. Jiménez,0,1,21.8,9,4,pico,FASE II,79.2
+Portal Américas,Portal Usme,0,0,21.8,6,6,pico,FASE II,70.4
+Héroes,Portal Suba,0,1,21.8,19,2,valle,FASE II,72.8
+Portal Tunal,AV. Jiménez,0,1,21.8,20,1,pico,FASE I,76.6
+Portal Américas,Portal Américas,0,1,21.8,13,4,valle,FASE I,73.5
+Portal Tunal,Museo del Oro,0,2,21.8,11,6,valle,FASE III,88.5
+Portal Tunal,AV. Jiménez,0,2,21.8,8,0,valle,FASE I,82.4
+AV. Jiménez,Museo del Oro,0,1,21.8,7,3,valle,FASE I,71.7
+Portal Américas,Museo del Oro,0,1,21.8,15,1,valle,FASE II,75.2
+Portal Suba,Museo del Oro,1,1,21.8,5,6,pico,FASE I,72.2
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,10,2,valle,FASE III,62.7
+Portal Suba,Museo del Oro,1,0,21.8,15,6,pico,FASE I,67.8
+Portal Tunal,Museo del Oro,0,0,21.8,5,4,pico,FASE I,73.3
+Portal Tunal,Portal Américas,1,1,21.8,11,5,valle,FASE I,63.2
+AV. Jiménez,Portal Suba,1,1,21.8,10,4,valle,FASE II,66.1
+AV. Jiménez,Héroes,0,2,21.8,18,6,valle,FASE I,78.6
+Portal Suba,Portal Tunal,1,0,21.8,6,1,pico,FASE II,72.7
+Museo del Oro,Portal Américas,0,0,21.8,8,6,valle,FASE III,61.2
+Portal Suba,Héroes,0,3,21.8,15,6,pico,FASE III,89.9
+AV. Jiménez,Museo del Oro,1,0,21.8,19,0,pico,FASE I,68.6
+Terminal (Autopista Norte),Portal Suba,1,1,21.8,22,2,pico,FASE I,78.5
+AV. Jiménez,AV. Jiménez,0,1,21.8,5,1,pico,FASE II,81.7
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,7,6,pico,FASE III,80.9
+Héroes,Portal Américas,0,0,21.8,7,3,valle,FASE III,64.2
+AV. Jiménez,Museo del Oro,0,0,21.8,11,2,valle,FASE I,67.1
+Héroes,Portal Suba,1,0,21.8,5,4,pico,FASE II,70.5
+Museo del Oro,Portal Usme,0,1,21.8,15,1,valle,FASE I,71.3
+Portal Suba,Portal Suba,0,1,21.8,10,4,valle,FASE I,69.2
+Terminal (Autopista Norte),Museo del Oro,0,0,21.8,7,6,valle,FASE I,62.2
+Portal Suba,Terminal (Autopista Norte),0,1,21.8,6,4,valle,FASE I,74.7
+Héroes,Portal Usme,0,2,21.8,22,4,pico,FASE I,82.4
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,16,0,valle,FASE I,70.1
+Portal Suba,Portal Tunal,1,1,21.8,14,4,valle,FASE II,65.7
+AV. Jiménez,Portal Tunal,1,1,21.8,9,3,pico,FASE I,76.0
+Portal Tunal,Portal Suba,0,0,21.8,13,3,pico,FASE II,75.1
+Héroes,Terminal (Autopista Norte),1,0,21.8,6,2,valle,FASE I,58.0
+Portal Suba,AV. Jiménez,1,1,21.8,6,6,pico,FASE I,73.7
+Héroes,Museo del Oro,1,2,21.8,10,5,valle,FASE I,74.4
+Portal Usme,Portal Tunal,0,2,21.8,14,4,pico,FASE I,84.5
+Héroes,AV. Jiménez,0,1,21.8,22,4,valle,FASE II,68.8
+Terminal (Autopista Norte),Portal Suba,0,1,21.8,16,1,pico,FASE I,77.1
+Portal Usme,Portal Américas,0,0,21.8,8,0,valle,FASE II,68.7
+Portal Américas,AV. Jiménez,0,1,21.8,21,5,valle,FASE I,73.2
+Terminal (Autopista Norte),Portal Usme,0,1,21.8,19,2,pico,FASE II,77.7
+Portal Tunal,Héroes,0,0,21.8,10,5,valle,FASE II,67.7
+Portal Usme,Portal Tunal,1,1,21.8,20,4,pico,FASE I,72.8
+Portal Américas,Portal Suba,0,1,21.8,21,1,pico,FASE I,74.2
+AV. Jiménez,Portal Américas,0,0,21.8,7,6,pico,FASE I,75.1
+Héroes,Museo del Oro,1,2,21.8,14,0,valle,FASE II,79.0
+Portal Suba,Portal Américas,1,0,21.8,9,6,pico,FASE I,69.7
+Museo del Oro,Terminal (Autopista Norte),1,0,21.8,18,2,pico,FASE II,62.4
+Héroes,Portal Usme,1,0,21.8,17,5,pico,FASE II,68.0
+Portal Américas,Portal Suba,0,2,21.8,10,2,valle,FASE III,78.2
+Héroes,Museo del Oro,1,1,21.8,16,4,valle,FASE II,68.2
+Portal Tunal,Terminal (Autopista Norte),0,0,21.8,12,2,pico,FASE II,70.5
+AV. Jiménez,Terminal (Autopista Norte),0,1,21.8,9,6,pico,FASE I,79.0
+Museo del Oro,Portal Suba,0,0,21.8,19,1,valle,FASE III,60.8
+Portal Usme,Portal Usme,0,2,21.8,20,2,pico,FASE II,87.7
+Portal Usme,AV. Jiménez,0,1,21.8,5,3,valle,FASE I,67.9
+Portal Usme,AV. Jiménez,0,1,21.8,20,1,valle,FASE II,73.4
+Portal Américas,Terminal (Autopista Norte),1,2,21.8,9,5,valle,FASE I,71.8
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,7,0,pico,FASE II,63.6
+Terminal (Autopista Norte),Héroes,0,0,21.8,19,0,valle,FASE II,67.4
+Portal Suba,Terminal (Autopista Norte),1,1,21.8,17,4,valle,FASE I,68.5
+Museo del Oro,Terminal (Autopista Norte),0,3,21.8,20,4,valle,FASE II,90.1
+Portal Usme,Museo del Oro,0,0,21.8,15,3,pico,FASE I,66.8
+Terminal (Autopista Norte),AV. Jiménez,1,0,21.8,6,5,pico,FASE I,66.1
+Portal Américas,Portal Usme,0,0,21.8,10,6,pico,FASE I,73.4
+Portal Suba,Terminal (Autopista Norte),0,1,21.8,10,0,valle,FASE II,73.8
+AV. Jiménez,Portal Américas,1,0,21.8,18,0,valle,FASE I,55.7
+Portal Suba,Portal Usme,0,1,21.8,15,0,pico,FASE I,81.3
+Terminal (Autopista Norte),Héroes,0,3,21.8,12,6,valle,FASE II,84.3
+Portal Tunal,Museo del Oro,1,1,21.8,12,0,pico,FASE I,69.5
+Portal Américas,Portal Suba,1,0,21.8,5,2,valle,FASE I,57.8
+Portal Tunal,Portal Usme,0,1,21.8,11,5,valle,FASE I,73.6
+Portal Usme,Terminal (Autopista Norte),0,0,21.8,10,1,pico,FASE I,67.6
+Portal Tunal,Héroes,0,2,21.8,12,1,pico,FASE I,89.0
+Portal Usme,Portal Tunal,0,1,21.8,12,3,pico,FASE I,80.9
+Portal Usme,Héroes,0,0,21.8,18,2,valle,FASE III,64.3
+Terminal (Autopista Norte),Héroes,0,1,21.8,22,0,valle,FASE II,67.1
+Portal Tunal,Museo del Oro,1,1,21.8,20,0,valle,FASE I,62.4
+Portal Usme,Portal Suba,0,1,21.8,13,4,pico,FASE I,78.8
+Museo del Oro,Portal Tunal,0,0,21.8,19,4,valle,FASE I,61.7
+AV. Jiménez,AV. Jiménez,0,2,21.8,14,3,pico,FASE II,86.0
+Portal Suba,AV. Jiménez,1,2,21.8,20,0,valle,FASE I,76.8
+Portal Suba,Portal Usme,0,1,21.8,8,3,pico,FASE I,79.2
+Terminal (Autopista Norte),Héroes,0,3,21.8,17,2,valle,FASE III,85.1
+Portal Tunal,Portal Américas,1,0,21.8,9,1,valle,FASE I,59.1
+Portal Tunal,Museo del Oro,0,1,21.8,11,0,valle,FASE I,75.1
+Portal Usme,Portal Américas,0,1,21.8,13,5,valle,FASE III,75.9
+Portal Américas,Museo del Oro,0,1,21.8,12,6,pico,FASE II,81.3
+Héroes,AV. Jiménez,0,1,21.8,20,2,pico,FASE I,80.4
+Portal Usme,Portal Usme,0,0,21.8,10,0,valle,FASE II,65.7
+AV. Jiménez,Portal Usme,0,0,21.8,20,6,pico,FASE I,77.3
+Museo del Oro,Portal Usme,0,0,21.8,10,5,pico,FASE II,74.5
+Portal Suba,Portal Tunal,0,0,21.8,18,4,valle,FASE I,69.6
+Portal Usme,Portal Suba,1,1,21.8,5,3,valle,FASE II,65.8
+Héroes,Portal Tunal,1,0,21.8,13,4,pico,FASE III,64.0
+Héroes,Terminal (Autopista Norte),1,0,21.8,17,1,pico,FASE III,66.0
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,21,4,pico,FASE III,73.4
+Terminal (Autopista Norte),Portal Américas,0,1,21.8,15,0,pico,FASE II,84.9
+Portal Suba,Portal Suba,1,2,21.8,12,5,valle,FASE I,76.2
+Terminal (Autopista Norte),AV. Jiménez,0,1,21.8,9,4,valle,FASE I,70.1
+Museo del Oro,Portal Suba,1,0,21.8,14,0,valle,FASE II,62.5
+Héroes,Museo del Oro,1,2,21.8,11,1,pico,FASE III,81.7
+Héroes,Terminal (Autopista Norte),1,1,21.8,14,6,valle,FASE I,71.9
+AV. Jiménez,Héroes,1,0,21.8,8,5,valle,FASE III,59.0
+Museo del Oro,Héroes,0,1,21.8,13,4,pico,FASE II,75.4
+Héroes,AV. Jiménez,0,2,21.8,18,3,valle,FASE III,78.5
+Museo del Oro,Museo del Oro,0,0,21.8,6,3,valle,FASE III,64.0
+Portal Suba,Portal Américas,0,0,21.8,13,5,valle,FASE I,61.0
+Portal Tunal,Portal Tunal,0,0,21.8,5,3,valle,FASE I,66.8
+Héroes,Museo del Oro,0,0,21.8,14,4,pico,FASE I,77.3
+AV. Jiménez,Héroes,1,1,21.8,14,4,pico,FASE I,71.7
+Portal Suba,Héroes,0,1,21.8,7,5,valle,FASE II,75.0
+Portal Usme,Portal Américas,1,0,21.8,10,4,pico,FASE II,66.2
+Museo del Oro,Terminal (Autopista Norte),1,2,21.8,10,6,pico,FASE III,82.0
+Portal Usme,Museo del Oro,1,2,21.8,6,0,valle,FASE II,73.7
+Terminal (Autopista Norte),Museo del Oro,1,1,21.8,22,1,valle,FASE I,67.0
+Portal Suba,Héroes,0,2,21.8,6,6,valle,FASE I,80.5
+Portal Usme,Portal Tunal,1,0,21.8,16,6,valle,FASE I,57.0
+Portal Américas,AV. Jiménez,1,1,21.8,9,3,valle,FASE I,70.9
+Portal Américas,Portal Usme,0,1,21.8,11,0,valle,FASE II,73.6
+Héroes,AV. Jiménez,0,2,21.8,20,5,pico,FASE I,89.5
+Museo del Oro,Museo del Oro,1,2,21.8,5,3,pico,FASE I,79.7
+Portal Tunal,AV. Jiménez,0,0,21.8,5,0,pico,FASE I,69.7
+Portal Suba,Héroes,0,2,21.8,21,4,pico,FASE II,90.6
+Héroes,Héroes,1,0,21.8,5,5,pico,FASE I,64.6
+AV. Jiménez,Portal Américas,0,2,21.8,17,5,pico,FASE I,87.5
+Terminal (Autopista Norte),Museo del Oro,0,3,21.8,13,3,valle,FASE I,89.1
+Museo del Oro,Portal Américas,1,0,21.8,19,4,valle,FASE III,59.7
+Portal Suba,Museo del Oro,0,1,21.8,7,3,pico,FASE I,83.6
+Portal Américas,Portal Usme,0,0,21.8,18,2,valle,FASE II,64.2
+Portal Suba,Portal Usme,0,1,21.8,15,0,valle,FASE II,68.2
+Portal Tunal,Terminal (Autopista Norte),0,1,21.8,16,2,pico,FASE II,81.2
+Portal Américas,Museo del Oro,1,1,21.8,17,0,valle,FASE III,67.6
+Portal Tunal,Portal Tunal,0,2,21.8,17,1,valle,FASE I,87.1
+AV. Jiménez,AV. Jiménez,0,1,21.8,5,6,pico,FASE I,77.2
+Terminal (Autopista Norte),Museo del Oro,0,1,21.8,14,5,valle,FASE I,71.3
+AV. Jiménez,Portal Suba,0,2,21.8,7,3,pico,FASE II,84.8
+Héroes,Terminal (Autopista Norte),1,3,21.8,8,1,valle,FASE I,80.6
+Héroes,Portal Suba,1,0,21.8,20,1,pico,FASE I,67.5
+AV. Jiménez,Héroes,0,3,21.8,12,5,valle,FASE II,83.4
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,20,5,pico,FASE II,74.4
+AV. Jiménez,AV. Jiménez,0,2,21.8,21,0,valle,FASE I,78.4
+Terminal (Autopista Norte),Museo del Oro,0,0,21.8,19,2,pico,FASE II,77.1
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,20,4,valle,FASE II,58.1
+Portal Usme,AV. Jiménez,0,1,21.8,19,0,valle,FASE I,77.6
+Portal Américas,Héroes,0,1,21.8,6,4,valle,FASE I,72.9
+Museo del Oro,Portal Usme,0,0,21.8,15,1,valle,FASE II,68.9
+Terminal (Autopista Norte),Portal Tunal,1,0,21.8,5,4,valle,FASE II,60.4
+Portal Tunal,Terminal (Autopista Norte),1,1,21.8,19,2,valle,FASE I,64.7
+Terminal (Autopista Norte),AV. Jiménez,0,2,21.8,8,0,valle,FASE I,78.2
+Terminal (Autopista Norte),AV. Jiménez,1,0,21.8,15,5,valle,FASE II,55.9
+Terminal (Autopista Norte),Portal Tunal,0,0,21.8,9,2,valle,FASE III,64.7
+Portal Usme,AV. Jiménez,0,1,21.8,7,6,pico,FASE II,80.6
+Portal Américas,Héroes,1,0,21.8,17,2,pico,FASE I,68.2
+Portal Usme,Héroes,1,2,21.8,14,6,pico,FASE I,86.0
+Héroes,Portal Tunal,1,2,21.8,15,0,valle,FASE III,73.6
+Portal Usme,Terminal (Autopista Norte),0,1,21.8,22,5,pico,FASE I,74.4
+Portal Tunal,Museo del Oro,0,0,21.8,6,2,valle,FASE III,75.7
+Portal Tunal,Portal Suba,1,2,21.8,11,6,valle,FASE III,72.0
+Portal Usme,Museo del Oro,0,1,21.8,13,5,pico,FASE I,82.9
+Portal Américas,AV. Jiménez,0,2,21.8,14,3,valle,FASE III,74.5
+AV. Jiménez,Portal Suba,0,1,21.8,22,3,pico,FASE I,80.8
+Museo del Oro,Portal Américas,1,2,21.8,11,3,pico,FASE II,79.7
+Portal Américas,Portal Tunal,0,1,21.8,11,4,valle,FASE I,63.6
+Portal Usme,Portal Tunal,0,1,21.8,7,2,pico,FASE I,79.2
+Terminal (Autopista Norte),Terminal (Autopista Norte),1,3,21.8,16,0,pico,FASE II,88.9
+Portal Suba,Portal Suba,0,1,21.8,11,0,valle,FASE II,71.4
+Museo del Oro,Héroes,0,1,21.8,21,4,pico,FASE I,80.8
+Museo del Oro,Portal Suba,0,0,21.8,5,0,valle,FASE II,64.2
+Portal Tunal,AV. Jiménez,0,1,21.8,9,6,valle,FASE I,72.2
+Museo del Oro,Héroes,0,1,21.8,20,3,pico,FASE I,80.6
+Portal Usme,Portal Usme,0,0,21.8,19,2,pico,FASE I,72.9
+Terminal (Autopista Norte),Portal Usme,1,0,21.8,6,0,valle,FASE I,59.5
+Terminal (Autopista Norte),Portal Américas,0,1,21.8,13,0,valle,FASE I,69.4
+Héroes,Portal Usme,1,2,21.8,11,1,pico,FASE I,83.8
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,8,1,valle,FASE I,71.2
+Portal Américas,Portal Suba,0,0,21.8,22,1,pico,FASE I,71.9
+Terminal (Autopista Norte),Portal Usme,0,1,21.8,8,2,valle,FASE I,73.6
+Portal Tunal,Museo del Oro,0,0,21.8,17,3,pico,FASE III,73.7
+Terminal (Autopista Norte),Terminal (Autopista Norte),1,1,21.8,5,5,pico,FASE I,72.9
+Héroes,Museo del Oro,0,0,21.8,7,3,pico,FASE III,76.8
+Portal Suba,Portal Usme,0,0,21.8,20,3,valle,FASE II,61.5
+Portal Usme,Portal Américas,1,0,21.8,8,2,valle,FASE II,56.9
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,20,6,valle,FASE II,62.0
+Portal Américas,AV. Jiménez,1,0,21.8,5,6,pico,FASE II,73.3
+Portal Suba,Museo del Oro,0,0,21.8,9,2,pico,FASE I,71.3
+Portal Tunal,Portal Américas,1,1,21.8,15,1,pico,FASE II,76.3
+AV. Jiménez,Portal Suba,0,1,21.8,17,0,valle,FASE II,68.5
+Museo del Oro,Portal Suba,0,0,21.8,9,4,valle,FASE II,62.3
+AV. Jiménez,Museo del Oro,0,2,21.8,8,4,valle,FASE II,82.4
+Terminal (Autopista Norte),Portal Usme,0,0,21.8,8,5,pico,FASE I,74.1
+Portal Suba,Portal Américas,0,1,21.8,8,0,valle,FASE II,75.5
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,8,5,pico,FASE II,76.3
+Museo del Oro,AV. Jiménez,1,0,21.8,22,1,valle,FASE I,53.8
+Portal Tunal,Héroes,0,1,21.8,22,5,pico,FASE I,76.5
+Museo del Oro,Portal Usme,0,1,21.8,20,0,valle,FASE II,72.9
+Héroes,Portal Américas,0,2,21.8,13,0,pico,FASE III,81.9
+Museo del Oro,AV. Jiménez,1,1,21.8,22,4,pico,FASE I,71.9
+Héroes,Portal Américas,0,3,21.8,6,6,valle,FASE II,90.3
+Museo del Oro,Terminal (Autopista Norte),0,0,21.8,8,1,pico,FASE I,71.4
+Portal Usme,AV. Jiménez,1,0,21.8,16,2,pico,FASE I,70.2
+Héroes,Portal Usme,1,0,21.8,11,5,valle,FASE I,60.0
+Portal Suba,Terminal (Autopista Norte),0,0,21.8,19,4,valle,FASE I,63.0
+Terminal (Autopista Norte),Portal Usme,1,1,21.8,11,5,valle,FASE I,62.0
+Portal Américas,Portal Suba,1,1,21.8,21,5,pico,FASE I,75.7
+Terminal (Autopista Norte),Héroes,1,0,21.8,20,2,valle,FASE II,64.4
+AV. Jiménez,Portal Usme,0,2,21.8,13,1,valle,FASE II,77.1
+Terminal (Autopista Norte),Portal Usme,1,2,21.8,18,0,pico,FASE I,82.2
+Portal Tunal,Portal Suba,0,0,21.8,21,3,valle,FASE I,60.5
+Portal Usme,Portal Tunal,0,0,21.8,9,5,pico,FASE I,71.0
+Museo del Oro,Portal Suba,0,0,21.8,6,3,pico,FASE II,74.1
+AV. Jiménez,Terminal (Autopista Norte),0,0,21.8,20,1,pico,FASE I,75.3
+Portal Tunal,Portal Suba,0,0,21.8,18,3,pico,FASE I,74.7
+Portal Tunal,Portal Suba,1,1,21.8,18,5,valle,FASE III,60.9
+Héroes,Héroes,0,0,21.8,5,2,valle,FASE II,63.7
+Terminal (Autopista Norte),Portal Suba,0,0,21.8,7,3,valle,FASE I,62.1
+Portal Suba,Portal Américas,0,3,21.8,11,1,valle,FASE I,85.1
+Portal Américas,Portal Usme,0,1,21.8,19,1,pico,FASE I,79.7
+Portal Suba,Portal Américas,1,2,21.8,6,6,valle,FASE II,77.2
+AV. Jiménez,Héroes,0,0,21.8,13,6,valle,FASE II,65.9
+Portal Usme,Museo del Oro,0,0,21.8,9,2,pico,FASE I,77.3
+Portal Suba,Portal Tunal,0,1,21.8,22,3,valle,FASE II,69.9
+Museo del Oro,Portal Américas,0,0,21.8,20,3,valle,FASE I,60.8
+Portal Suba,Héroes,0,0,21.8,8,6,valle,FASE I,69.4
+AV. Jiménez,Terminal (Autopista Norte),1,1,21.8,16,0,valle,FASE I,68.3
+Portal Américas,Museo del Oro,1,1,21.8,11,4,pico,FASE I,72.8
+Portal Suba,Héroes,0,1,21.8,18,1,pico,FASE I,81.4
+Museo del Oro,Héroes,1,1,21.8,16,0,pico,FASE I,77.5
+Héroes,Portal Tunal,1,1,21.8,7,1,valle,FASE I,67.4
+Portal Usme,Portal Usme,1,0,21.8,9,0,valle,FASE I,57.9
+AV. Jiménez,Portal Américas,0,0,21.8,21,6,valle,FASE II,63.7
+Héroes,Terminal (Autopista Norte),0,0,21.8,14,6,pico,FASE I,73.9
+Héroes,AV. Jiménez,0,0,21.8,14,4,pico,FASE I,73.6
+Héroes,Portal Américas,1,3,21.8,15,0,valle,FASE II,84.7
+Portal Tunal,AV. Jiménez,1,1,21.8,21,1,valle,FASE II,66.2
+Portal Usme,Héroes,0,1,21.8,9,3,pico,FASE II,77.1
+Portal Américas,Portal Suba,0,0,21.8,17,1,valle,FASE I,72.8
+Terminal (Autopista Norte),Terminal (Autopista Norte),1,0,21.8,14,5,valle,FASE I,60.6
+Portal Usme,Museo del Oro,1,0,21.8,13,6,valle,FASE II,62.5
+Portal Tunal,Portal Suba,1,0,21.8,21,2,valle,FASE II,61.6
+Terminal (Autopista Norte),Portal Suba,1,0,21.8,5,2,pico,FASE I,68.6
+Portal Usme,Portal Américas,0,2,21.8,8,6,valle,FASE III,78.4
+Héroes,Terminal (Autopista Norte),0,1,21.8,8,5,valle,FASE I,63.6
+AV. Jiménez,Portal Usme,1,1,21.8,22,2,pico,FASE III,71.9
+Terminal (Autopista Norte),Héroes,0,1,21.8,13,6,pico,FASE III,81.0
+Museo del Oro,Héroes,0,2,21.8,22,2,valle,FASE II,70.9
+Museo del Oro,Héroes,1,0,21.8,18,6,pico,FASE III,68.3
+Portal Suba,Héroes,0,0,21.8,19,4,pico,FASE II,75.0
+Terminal (Autopista Norte),Portal Américas,1,0,21.8,10,3,valle,FASE I,62.5
+AV. Jiménez,AV. Jiménez,0,2,21.8,14,3,pico,FASE I,88.8
+Portal Américas,Héroes,1,3,21.8,19,1,valle,FASE I,83.9
+Portal Tunal,AV. Jiménez,0,0,21.8,8,5,pico,FASE I,77.9
+Héroes,AV. Jiménez,0,2,21.8,22,6,valle,FASE II,82.3
+Portal Suba,Portal Usme,0,2,21.8,22,0,pico,FASE I,87.6
+Museo del Oro,Héroes,0,0,21.8,21,1,pico,FASE I,72.6
+Portal Tunal,Portal Tunal,1,0,21.8,16,1,pico,FASE II,68.4
+Portal Tunal,Museo del Oro,1,1,21.8,11,6,valle,FASE III,66.2
+Héroes,Portal Suba,0,3,21.8,20,6,valle,FASE I,89.4
+Portal Américas,AV. Jiménez,0,0,21.8,15,1,pico,FASE I,74.8
+Portal Américas,Terminal (Autopista Norte),0,2,21.8,18,1,valle,FASE I,77.9
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,0,21.8,7,3,valle,FASE II,69.0
+Museo del Oro,Museo del Oro,1,1,21.8,22,0,valle,FASE I,66.2
+Portal Américas,Terminal (Autopista Norte),1,1,21.8,14,1,pico,FASE II,72.2
+AV. Jiménez,Portal Tunal,1,1,21.8,10,3,valle,FASE I,67.0
+Portal Américas,Terminal (Autopista Norte),1,2,21.8,17,1,pico,FASE I,79.6
+Portal Tunal,Portal Suba,0,2,21.8,14,2,pico,FASE III,89.8
+Héroes,Portal Suba,1,2,21.8,22,1,valle,FASE I,71.5
+AV. Jiménez,AV. Jiménez,1,0,21.8,20,6,valle,FASE I,59.7
+Terminal (Autopista Norte),Héroes,1,1,21.8,10,5,pico,FASE I,77.9
+Museo del Oro,Portal Usme,1,0,21.8,17,5,pico,FASE I,65.9
+Terminal (Autopista Norte),Portal Tunal,0,1,21.8,8,1,valle,FASE II,73.3
+Portal Tunal,AV. Jiménez,1,1,21.8,18,4,valle,FASE I,64.1
+AV. Jiménez,Portal Tunal,0,1,21.8,5,2,pico,FASE I,80.8
+AV. Jiménez,Héroes,0,1,21.8,9,0,valle,FASE I,73.7
+AV. Jiménez,Portal Américas,0,3,21.8,12,1,pico,FASE II,93.9
+Portal Tunal,Terminal (Autopista Norte),1,0,21.8,16,0,pico,FASE II,68.1
+Portal Tunal,Terminal (Autopista Norte),1,1,21.8,6,2,valle,FASE II,68.4
+Terminal (Autopista Norte),Portal Usme,1,0,21.8,16,1,pico,FASE II,67.2
+Portal Suba,Héroes,1,0,21.8,9,4,pico,FASE I,70.7
+Terminal (Autopista Norte),AV. Jiménez,0,0,21.8,9,3,valle,FASE I,69.2
+Museo del Oro,Portal Usme,1,2,21.8,17,4,valle,FASE I,71.3
+Héroes,Héroes,0,2,21.8,13,6,pico,FASE I,92.3
+AV. Jiménez,Museo del Oro,0,2,21.8,14,4,valle,FASE I,78.1
+Portal Suba,Portal Suba,0,3,21.8,5,3,valle,FASE II,92.0
+Héroes,Portal Usme,1,0,21.8,7,6,pico,FASE II,67.2
+Portal Suba,Portal Usme,1,0,21.8,22,3,valle,FASE III,62.2
+Portal Américas,AV. Jiménez,0,1,21.8,16,5,pico,FASE I,82.1
+Portal Américas,Portal Tunal,0,1,21.8,7,3,pico,FASE II,78.9
+Portal Usme,Museo del Oro,1,1,21.8,13,1,valle,FASE II,67.3
+Portal Américas,AV. Jiménez,0,0,21.8,6,0,valle,FASE II,69.4
+Terminal (Autopista Norte),Héroes,1,1,21.8,7,5,pico,FASE I,74.1
+Portal Américas,Héroes,1,1,21.8,18,5,pico,FASE I,73.8
+Portal Tunal,Héroes,0,0,21.8,8,0,valle,FASE I,61.6
+AV. Jiménez,Portal Américas,0,1,21.8,17,5,pico,FASE I,84.7
+Terminal (Autopista Norte),Héroes,1,1,21.8,11,3,pico,FASE II,73.6
+Héroes,Portal Tunal,1,1,21.8,16,4,pico,FASE I,78.6
+Portal Usme,Museo del Oro,0,0,21.8,7,2,valle,FASE I,63.2
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,13,3,pico,FASE II,78.5
+Portal Usme,Portal Suba,0,0,21.8,6,6,pico,FASE II,75.5
+Héroes,Portal Tunal,0,0,21.8,13,6,valle,FASE I,64.4
+Héroes,Portal Tunal,1,2,21.8,16,4,valle,FASE II,71.8
+Héroes,Portal Américas,1,1,21.8,16,4,valle,FASE I,65.1
+Héroes,Terminal (Autopista Norte),0,0,21.8,19,5,pico,FASE I,71.0
+Portal Usme,Terminal (Autopista Norte),1,1,21.8,6,1,valle,FASE I,70.2
+Portal Usme,Portal Suba,0,1,21.8,22,1,pico,FASE II,80.5
+Portal Suba,Portal Suba,0,2,21.8,17,5,pico,FASE III,83.7
+Terminal (Autopista Norte),Terminal (Autopista Norte),0,1,21.8,18,5,valle,FASE I,71.3
+AV. Jiménez,Héroes,1,1,21.8,9,0,pico,FASE II,74.6
+Portal Américas,Portal Tunal,0,1,21.8,14,0,pico,FASE I,73.6
+Portal Américas,AV. Jiménez,0,0,21.8,16,2,pico,FASE II,72.5
+Portal Tunal,Portal Suba,0,0,21.8,14,2,pico,FASE I,75.2
+Portal Usme,Portal Américas,1,1,21.8,15,2,pico,FASE I,74.6
